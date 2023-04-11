@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+    
+ <g fill='none' stroke='black' stroke-width="2px">
+    <rect x="50" y="5" width="100" height="50"/>
+
+    <rect x="50" y="15" width="100" height="50"
+     vector-effect="non-scaling-stroke"
+     stroke="red" />
+
+    <circle cx="100" cy="20" r="30"
+     stroke="pink" fill="yellow" opacity=".30"/>
+</g>
+
+<defs>
+  <path id='tri' d="M0,0l0,40l30,0z" stroke="lightblue" vector-effect="non-scaling-stroke"/>
+</defs>
+
+<g stroke="blue" stroke-width="2px" fill="none">
+  <!-- normal -->
+  <path d="M0,0l0,40l30,0z" transform="translate(10,10)"/>
+
+  <use href='#tri' transform="translate(10,20)"/>
+
+  <!-- scaled -->
+  <path d="M0,0l0,40l30,0z" stroke='yellow'
+    transform="translate(60,10) scale(2,1)"
+   />
+
+  <!-- fixed-->
+  <path d="M0,0l0,40l30,0z" stroke='darkblue' vector-effect="non-scaling-stroke"
+    transform="rotate(-15,120,50) translate(120,10) scale(2,1)"/>
+  <use href="#tri" stroke='darkblue' 
+    transform="rotate(15,120,50) translate(120,10) scale(2,1)"/>
+</g>
+
+</svg>
