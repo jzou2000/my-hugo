@@ -15,7 +15,14 @@ title: WSL 2 tips
 
 ## WSL GUI
 
+WSL2 supports its own X server since Win10.19044 and Win11.
+
+Simply set ``DISPLAY=:0`` and all X applications can use the *native* X server.
+
 ### VcXsrv
+
+Note:
+* Using VcXsrv is no longer necessary, because since Win10.19044 and Win11. You can still install VcXsrv as another X server, though.
 
 VcXsrv is an open source X server on Windows, with GPL license.
 
