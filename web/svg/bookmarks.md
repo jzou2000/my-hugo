@@ -16,3 +16,11 @@ nav: bookmarks
 <a href="https://www.svgator.com/">SVG Animation Creator - Animate and Export SVG | SVGator</a>
 <a href="https://svgontheweb.com/">A Practical Guide to SVGs on the web</a>
 </div>
+
+From AllBestApp.net
+
+* [Adobe Illustrator Draw](http://allbestapps.net/android/adobe-illustrator-draw)
+* [Vector Art Studio](http://allbestapps.net/android/vector-art-studio) $5.96 for saving to svg
+* [PaperSimple](http://allbestapps.net/android/papersimple) recognize sketch and turn into vector graphics!
+* [Skedio: Easy Vector Drawing](http://allbestapps.net/android/skedio-easy-vector-drawing) premium: export svg, ...
+* [Inker](http://allbestapps.net/android/inker) sketch to vector, export svg $12.98

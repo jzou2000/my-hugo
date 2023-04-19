@@ -1,5 +1,6 @@
 ---
 title: scale
+nav: scale
 ---
 
 <style>

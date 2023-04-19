@@ -1,6 +1,6 @@
 ---
-title: Simple Demo on SVG
-nav: simple svg
+title: Trace The Mouse
+nav: trace mouse
 vue: true
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.3/gsap.min.js"></script>

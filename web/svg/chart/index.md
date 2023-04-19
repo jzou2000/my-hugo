@@ -1,5 +1,6 @@
 ---
 title: test chart
+nav: test chart
 ---
 
 <img src='test.svg'/>

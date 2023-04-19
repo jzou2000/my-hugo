@@ -1,5 +1,6 @@
 ---
-title: google drawing elements
+title: Google Drawing Elements
+nav: google drawing
 ---
 
 shape-1

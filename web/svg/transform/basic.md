@@ -1,11 +1,14 @@
 ---
-title: transform
+title: Basic Transform
+nav: basic
 ---
 
 <svg width="800" height="600" viewbox="-40 -40 880 680">
   <g fill-opacity="0.6" fill="none">
+    <!-- viewport frame -->
     <rect x="-40" y="-40" width="880" height="680"
      stroke="gray"/>
+    <!-- svg body -->
     <rect x="0" y="0" width="800" height="600"
      fill="pink" />
   </g>
