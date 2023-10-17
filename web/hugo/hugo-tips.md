@@ -42,3 +42,9 @@ markup:
 ```
 
 * Some people propose to re-vote the default behavior to *true*, because people who embed raw HTML tags in markdown know what they are doing.
+
+
+## Caching!
+
+Ref:
+* [The Full Partial Series Part 1: Caching!](https://www.regisphilibert.com/blog/2019/12/hugo-partial-series-part-1-caching-with-partialcached/)

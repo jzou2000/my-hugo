@@ -1,0 +1,4 @@
+---
+title: Log
+entry: recipes
+---

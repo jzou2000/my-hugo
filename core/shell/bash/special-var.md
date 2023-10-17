@@ -1,6 +1,6 @@
 ---
 title: Bash Special Variables
-nav: bash special vars
+nav: special vars
 ---
 
 

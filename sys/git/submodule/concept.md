@@ -1,8 +1,6 @@
 ---
-title: Git Submodule
-nav: submodule
-date: 2019-04-17
-tags: [git, submodule]
+title: Submodule Concept
+nav: concept
 ---
 
 ## Prepare Root Repo and Clone It
