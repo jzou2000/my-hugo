@@ -13,3 +13,9 @@ To **squash** in Git means to combine multiple commits into one.
 * [How to squash and merge commits in a git repository](https://levelup.gitconnected.com/how-to-squash-and-merge-commits-in-a-git-repository-f1ceed0479c7)
 * [How do I squash my last N commits together](https://stackoverflow.com/questions/5189560/how-do-i-squash-my-last-n-commits-together)?.
 
+## Use Cases
+
+* squashing last 6 commits
+  ```sh
+  git rebase -i HEAD~6
+  ```

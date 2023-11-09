@@ -33,7 +33,7 @@ diff [OPTIONS] FILES
 |``-Z,--ignore-trailing-space``||
 |``-b,--ignore-space-change``||
 |``-w,--ignore-all-space``||
-|``-B,--ignore-blank-lines||
+|``-B,--ignore-blank-lines``||
 |``-I,--ignore-matching-lines=RE``|ignore changes where all lines match ``RE``|
 
 
@@ -41,8 +41,8 @@ diff [OPTIONS] FILES
 
 |option      |description |
 |:-----------|:--------------|
-|``-n,--rcs  |RCS format diff|
+|``-n,--rcs``|RCS format diff|
 |``-x,--exclude=PAT``|exclude files that match the pattern ``PAT``|
-|``-X,--exclude-from=FILE|exclude files that match any patterns in ``FILE``|
+|``-X,--exclude-from=FILE``|exclude files that match any patterns in ``FILE``|
 |``--from-file=FILE1``|define from files in FILE1|
 |``--to-file=FILE2``|define to files in FILE1|
