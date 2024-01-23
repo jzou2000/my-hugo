@@ -24,6 +24,7 @@ Other useful options are
 |-f      |diff every file, opened and unopened|
 ||**display option**|
 |-ds     |summary, i.e. list file name only|
+|**-du**|**unified result (i.e. patch file)**|
 |-db     |ignore whites changes|
 |-dw     |ignore whites |
 |-dl     |ignore line-ending|
