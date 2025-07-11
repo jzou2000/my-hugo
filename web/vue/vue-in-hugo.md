@@ -19,13 +19,18 @@ weight: 19
 </div>
 
 <script>
-    var app = new Vue({
-        el: '#sample-app',
-        data: {
-            message: 'Hello Vue!',
-            fruit: ['apple', 'banana', 'pear', 'orange']
+   const { createApp, ref } = Vue
+
+    const app = createApp({
+        data() {
+            return {
+                message: 'Hello Vue!',
+                fruit: ['apple', 'banana', 'pear', 'orange']
+            }
         }
     })
+
+    app.mount('#sample-app')
 </script>
 
 ```html {linenos=table,hl_lines=[1,14]}

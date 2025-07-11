@@ -7,7 +7,7 @@ nav: basic
   <g fill-opacity="0.6" fill="none">
     <!-- viewport frame -->
     <rect x="-40" y="-40" width="880" height="680"
-     stroke="gray"/>
+     stroke="gray" stroke-width="2"/>
     <!-- svg body -->
     <rect x="0" y="0" width="800" height="600"
      fill="pink" />
