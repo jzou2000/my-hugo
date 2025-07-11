@@ -61,3 +61,25 @@ after shift arg 1 ()
 
 ```
 
+## set default args
+
+```cmd
+@echo off
+set bit=%1
+set build=%2
+if not defined bit set bit=64
+if not defined build set build=release
+echo bit=%bit%
+echo build=%build%
+```
+Result
+```cmd
+ex-default
+bit=64
+build=release
+
+ex-default 32
+bit=32
+build=release
+
+```

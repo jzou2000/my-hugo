@@ -1,0 +1,4 @@
+---
+title: Branch
+entry: squashing
+---

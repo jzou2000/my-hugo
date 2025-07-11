@@ -23,6 +23,9 @@ Common options
 |--include=GLOB|search only files that match the glob pattern|
 |--exclude=GLOB|skip files that match the glob|
 |--exclude-dir=DIR|skip dirs of pattern in recursive search|
+|-I            |equivalent to --binary-files=without-match, skip binary files unless unmatch is concerned|
+|-s            |--no-messages, suppress error messages about nonexistent or unreadable files|
+
 
 Recipes
 * search py files recursively from the current folder, find all lines that contain the pattern ``procdump``
@@ -33,4 +36,7 @@ Recipes
   ```sh
   grep -r --include='*.py' -l procdump
   ```
-
+* search the current folder recursively, skip any binaries, nonexistent and unreadables
+  ```sh
+  grep -Irs pattern *
+  ```

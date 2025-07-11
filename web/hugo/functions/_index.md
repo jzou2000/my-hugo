@@ -1,0 +1,4 @@
+---
+title: Functions
+nav: functions
+---

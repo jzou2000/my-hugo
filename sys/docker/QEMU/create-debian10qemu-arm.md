@@ -633,10 +633,12 @@ root@d1db8268abb6:/dkr/deb10# du -sh archives/
 some tools in package
 
 readelf binutils-linux-gnu    (binutils-aarch64-linux-gnu, binutils-multiarch (for armhf))
-
+```sh
 arm-none-linux-gnueabi-objdump -x $1 | grep NEEDED
 /usr/bin/arm-linux-gnueabihf-readelf -a /opt/icu-71.1.x/release32/lib/libicudata_sb32.so.71
+```
 
+```
 icuio:
 ELF Header:
   Magic:   7f 45 4c 46 01 01 01 00 00 00 00 00 00 00 00 00
@@ -681,10 +683,12 @@ ELF Header:
   Number of section headers:         12
   Section header string table index: 11
 
+```
 
 aarch64-linux-gnu-readelf
 /opt/icu-71.1.x/release64/lib
 
+```
 icudata
 ELF Header:
   Magic:   7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00
@@ -728,5 +732,6 @@ ELF Header:
   Size of section headers:           64 (bytes)
   Number of section headers:         29
   Section header string table index: 28
+```
 
 ## dockfile

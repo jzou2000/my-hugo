@@ -75,3 +75,20 @@ Key binding
 
 ## remote debug
 
+* prepare/launch app on the target machine
+  * ``gdbserver comm prog [args...]``
+  * ``gdbserver --attach comm pid``
+  * ``gdbserver --multi comm``
+* debug with ``gdb``
+  * ``(gdb) target remote comm``
+
+Note:
+* target app can be stripped because ``gdbserver`` doesn't debug the app
+* symbols should be kept on the ``gdb`` side
+* communitcation could be either
+  * a device (e.g. tty or serial)
+  * tcp end (e.g. host:port), host is ignored by ``gdbserver`` (obviously required by ``gdb``)
+* in multi-process mode, ``gdbserver`` does not exit when the app exits,
+  so ``gdb`` can debug multiple apps in a single session.
+
+

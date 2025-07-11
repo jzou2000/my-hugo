@@ -1,5 +1,5 @@
 ---
-title: Hugo Template and Theme
+title: Template and Theme
 date: 2019-06-10
 tags: [hugo, theme, template]
 ---

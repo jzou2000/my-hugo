@@ -49,4 +49,41 @@ replace heLLo, worLd
 
 ```
 
+## Special Cases
 
+### ``set p``
+display all variables that begin with the letter ``p``
+
+### ``set /a``
+
+set value in numeric
+
+### ``set /p var=[prompt-string]``
+
+display prompt-string and accept user input as value of variable.
+
+### ``%var:old=new%``
+
+substitute all ``old`` substring to ``new`` in varialbe ``var``
+
+### ``%var:~10,5%``
+
+return substring of ``var`` from 11th with length 5.
+
+### local delayed expansion
+
+Allow to reload variable during execution, useful to iterate arrays.
+* set ``EnableDelayedExpansion``
+* Quote array and variables by ``!`` in a ``for`` loop
+
+```cmd
+@echo off
+@setlocal EnableDelayedExpansion
+set array[1]=hello
+set array[2]=world
+set len=2
+for /l %%i in (1,1,%len%) do (
+  set n=!array[%%i]!
+  echo i=%%i n=!n!
+)
+```
