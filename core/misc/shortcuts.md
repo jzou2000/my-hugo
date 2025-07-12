@@ -1,5 +1,6 @@
 ---
 title: Keyboard Shortcuts
+nav: shortcuts
 date: 2019-05-27
 tags: [keyboard, shortcut, eclipse, vsc]
 ---

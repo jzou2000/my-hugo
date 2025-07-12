@@ -1,5 +1,6 @@
 ---
 title: VIm Tips
+nav: vim
 date: 2019-10-28
 categories:
     - vim

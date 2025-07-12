@@ -1,5 +1,5 @@
 ---
-title: Language Rosetta
+title: Rosetta
 toplevel: true
 ---
 
