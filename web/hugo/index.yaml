@@ -1,0 +1,43 @@
+title: hugo
+list:
+  - title: build my hugo site
+    name: build-my-hugo-site
+  - name: functions
+    list:
+      - name: collection
+      - title: expr
+        name: expression
+      - name: string
+  - title: https support
+    name: https
+  - title: exercises
+    name: hugo-ex
+    list:
+      - title: create a site
+        name: create-site
+  - title: hugo ssg on docker
+    name: hugo-on-docker
+  - title: template and theme
+    name: hugo-theme
+  - title: my hugo docker
+    name: my-hugo-docker
+  - title: bundle
+    name: page-bundle-test
+  - name: shortcode
+    list:
+      - name: demo
+  - desc: static site generator list
+    name: ssg
+  - name: template
+    list:
+      - name: references
+  - name: tips
+    list:
+      - name: caching
+      - title: raw html
+        name: html
+      - title: page info
+        name: page-info
+      - title: syntax highlight
+        name: syntax-highlight
+  - name: vars

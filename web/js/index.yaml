@@ -1,0 +1,51 @@
+title: javascript
+list:
+  - title: bookmarks
+    name: bookmark
+  - title: embedded js engine
+    name: embedded
+    list:
+      - title: build qjs
+        desc: 'build qjs on different platforms, problems and solutions'
+        name: build
+      - name: overview
+  - title: external DOM elements
+    name: externl-dom
+  - name: framework
+  - title: node.js
+    name: node
+    list:
+      - title: express.js
+        name: express-tips
+      - desc: walk fs directory with optional filter
+        name: fswalk
+      - title: https with express.js
+        name: https-express
+      - title: Packing into a single binary
+        name: node-pkg
+  - name: npm
+    list:
+      - name: better-sqlite3
+      - title: commander.js
+        name: commander
+      - title: common modules index
+        name: common-modules
+      - title: express + axios
+        name: express+axios
+      - name: fast-xml-parser
+      - name: iconv-lite
+      - name: js-levenshtein
+      - name: js-yaml
+      - title: markdonw-it + highlight.js
+        name: markdown-it+highlight
+      - name: nedb
+      - name: npm
+      - name: sax
+      - name: socket.io
+      - title: common usage
+        name: usage
+  - title: tutorial
+    name: tutorials
+  - title: play with vsc
+    desc: Setting and debugging for Javascript with Visual Studio Code.
+    name: vsc-settings-javascript

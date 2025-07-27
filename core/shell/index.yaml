@@ -1,0 +1,24 @@
+title: shell
+list:
+  - name: bash
+    list:
+      - name: array
+      - name: debug
+      - name: getopts
+      - name: heredoc
+      - title: special vars
+        name: special-var
+      - name: string
+      - name: transform
+      - title: indirect var
+        name: var-indirect
+  - title: cmd/bat
+    name: bat
+    list:
+      - name: argv
+      - title: if .. else
+        name: if
+      - name: loop
+      - name: overview
+      - title: vars and string
+        name: var

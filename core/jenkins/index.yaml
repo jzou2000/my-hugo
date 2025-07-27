@@ -1,0 +1,60 @@
+title: jenkins
+list:
+  - title: artifacts
+    name: archive
+    list:
+      - desc: tips of using pipeline
+        name: tips
+  - name: ci
+  - title: 'install: docker'
+    name: docker
+  - name: git
+  - name: groovy
+    list:
+      - title: data conversion
+        name: data-conversion
+      - name: intro
+      - title: operator
+        name: op
+      - title: snippet - collection
+        name: snippet-collection
+  - name: overview
+  - name: pipeline
+    list:
+      - title: declarative vs scripted
+        name: declaretive-vs-scripted
+      - title: run stage in docker
+        name: docker
+      - title: global variables (env)
+        name: global-vars
+      - title: parallel delarative
+        name: parallel-declare
+      - title: parallel script
+        name: parallel-script
+      - name: sample
+      - title: sequence catchError
+        name: sequence-catcherror
+      - title: sequence simple
+        name: sequence-simple
+      - title: simple task
+        name: simple-task
+      - title: steps basic
+        name: steps-basic
+      - name: syntax
+      - name: tips
+      - name: when
+  - name: playground
+    list:
+      - name: pipeline
+  - name: python-binding
+    list:
+      - name: build
+      - name: exceptions
+      - name: job
+      - name: misc
+      - name: node
+      - name: overview
+      - name: plugins
+      - name: promotion
+      - name: queue
+      - name: view

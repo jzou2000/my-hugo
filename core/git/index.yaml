@@ -1,0 +1,78 @@
+title: git
+list:
+  - title: github.com
+    desc: miscelleous tips for accessing github
+    name: github
+    list:
+      - title: access token
+        name: token
+  - name: branch
+    list:
+      - title: remote branch
+        name: remote
+      - name: squashing
+      - title: setup upstream
+        name: up-stream
+  - name: config
+  - desc: let git diff ignore CRLF at eol
+    name: crlf-at-eol
+  - title: diff & patch
+    name: diff-patch
+    list:
+      - name: externals
+      - name: gitdiff
+      - name: patch
+  - title: exercises
+    name: exercise
+    list:
+      - name: branch
+      - title: branch ex2
+        name: branch-ex2
+      - name: intro
+      - title: push exercise
+        name: push-ex
+  - title: .gitignore
+    name: gitignore
+  - name: log
+    list:
+      - title: branch graph
+        name: graph
+      - name: options
+      - name: path
+      - title: pretty format
+        name: pretty
+      - name: range
+      - name: recipes
+  - name: submodule
+    list:
+      - name: add
+      - name: concept
+      - name: update
+      - title: working folder
+        name: working-folder
+  - name: tag
+  - name: tree-ish
+    list:
+      - title: HEAD~ vs HEAD^
+        name: parent-notation
+      - name: range
+      - name: revision
+  - name: undo
+    list:
+      - name: amend
+      - name: discard
+      - name: restore
+      - name: revert
+  - title: perforce
+    name: p4
+    list:
+      - name: bookmark
+      - title: changes/change
+        name: change
+      - name: files
+      - title: p4 doc
+        name: p4-doc
+      - title: p4 info
+        name: p4info
+      - title: p4 recipes
+        name: p4recipe

@@ -1,0 +1,43 @@
+title: svg
+list:
+  - title: anime.js
+    name: animejs
+    list:
+      - name: demo
+      - name: urls
+  - name: bookmarks
+  - title: test chart
+    name: chart
+  - name: component
+  - name: elements
+    list:
+      - name: basic
+      - name: path
+      - name: text
+  - title: google drawing
+    name: google-drawing
+  - title: greensock - animation
+    name: greensock
+    list:
+      - title: moving ball
+        name: moving-ball
+      - title: trace mouse
+        name: trace-mouse
+  - name: samples
+    list:
+      - title: embedded objects
+        name: embed-svg
+  - name: scale
+  - title: svg + js
+    name: svg+js
+    list:
+      - title: online resources
+        name: links
+  - name: transform
+    list:
+      - name: basic
+      - name: rotate
+      - name: scale
+      - name: scale2
+      - name: transform-2
+      - name: translate

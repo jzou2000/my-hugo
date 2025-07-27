@@ -1,0 +1,43 @@
+title: linux
+list:
+  - title: 32-on-64
+    name: 32on64
+  - name: binutils
+  - title: building gcc
+    name: build-gcc
+  - title: centos5-vault
+    name: centos-vault
+  - title: deprecated and replacements
+    name: debian9-alt
+  - title: download packages
+    name: download-packages
+  - title: distros versions
+    name: glibc-gcc-versions
+  - name: lsb
+  - title: make a rpm package
+    name: mk-rpm
+  - desc: 'concepts, methods and tools'
+    name: performance
+    list:
+      - name: overview
+      - title: performance monitors
+        name: performance monitor
+  - title: pkgs.org
+    name: pkgs
+  - title: tools - drawing
+    name: tools-drawing
+  - title: common utils
+    name: utils
+    list:
+      - name: diff
+      - title: diff+patch
+        desc: an example that generates a patch and applies the patch to a repo.
+        name: diff-patch
+      - name: find
+      - name: grep
+      - title: gui utils
+        name: gui
+      - name: od
+      - name: patch
+      - desc: Some useful recipes for using tar
+        name: tar

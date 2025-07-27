@@ -1,0 +1,20 @@
+title: english
+list:
+  - title: proverbs of days
+    name: proverbs-of-day
+    list:
+      - name: '100'
+      - name: '200'
+      - title: fluentU
+        name: fluent
+      - title: common idioms
+        name: idioms
+      - name: shutterstock
+  - title: words of day
+    name: words-of-day
+    list:
+      - name: '2023-04-26'
+      - name: '2023-08-24'
+      - name: '2023-09'
+      - name: '2023-10'
+      - name: '2023-11'

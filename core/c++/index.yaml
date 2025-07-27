@@ -1,0 +1,104 @@
+title: c/c++
+list:
+  - name: patterns
+    list:
+      - title: big-five-rule
+        name: big-five
+      - desc: CRTP is a C++ pattern that implemnt static polymophsm
+        name: crtp
+      - name: pimpl
+      - name: trait
+  - name: make
+    list:
+      - title: link on AIX
+        name: aix-static-lib
+      - title: build 32-bit apps
+        name: build-m32
+      - title: c++ pkg mgr
+        name: cpp_pkg_mgr
+      - name: gmake-recipes
+        title: gmake recipes
+      - name: gn
+      - title: static/shared libs
+        name: libs-across-platforms
+      - title: mac univeral bins
+        name: mac-universal
+      - title: make template
+        name: make-templ
+      - title: playground
+        name: playing-with-gmake
+      - title: shared object and soname
+        name: soname
+      - title: link statically
+        name: whole-archive
+  - desc: Debugging Tips
+    name: debug
+    list:
+      - title: dbx
+        name: dbx-aix
+      - name: debugger
+      - title: dr.memory
+        name: drmemory
+      - title: gdb recipes
+        name: gdb-recipe
+      - title: debugging on osx
+        name: osx-debug
+      - title: shared object
+        name: shared-object-debug
+      - name: sysinternals
+      - name: trace
+  - title: c++ std in gcc
+    name: gcc-std
+  - name: lang
+    list:
+      - title: pitfall - template
+        name: pitfall-template
+      - title: template instantiation
+        name: template-instatiation
+      - title: template variadic
+        name: template-variadic
+      - title: version cheatsheet
+        name: version-cheatsheet
+  - name: casting
+  - title: profile & optimization
+    name: performance
+    list:
+      - name: gprof
+      - name: perf
+      - name: valgrind
+  - name: pitfalls
+    list:
+      - title: big 5
+        name: big5
+      - title: implicit type convertion
+        desc: >-
+          implicit type convertion in overload functions, especially in
+          constructor
+        name: overload-implicit
+  - name: mimiscellious pitfalls
+    list:
+      - name: __cplusplus
+      - title: name demangling
+        name: c++-demangling
+      - title: clang++ issues
+        name: clang
+      - title: compiler predefined macros
+        name: compiler-predefinded-macro
+      - desc: approximately compare two floats/doubles
+        name: epsilon
+      - title: identify compiler
+        name: identify-compiler
+      - title: compiler manuals
+        name: manuals
+      - title: inspect module symbols
+        desc: a utility to display symbols of a moudle
+        name: nm
+      - name: picojson
+      - name: readelf
+  - title: stl case studies
+    name: stl
+    list:
+      - title: stl - iterator
+        name: stl-iterator
+  - title: A Plugin Framework
+    name: plugin-framework

@@ -1,0 +1,21 @@
+title: python
+list:
+  - title: pdb
+    name: debug-with-pdb
+  - title: pip misc
+    name: pip-misc
+  - desc: introduce pywin32 module
+    name: pywin32
+  - name: recipes
+    list:
+      - title: duck-typing dict
+        name: duck-typing_dict
+  - title: shallow or deep
+    name: shallow-or-deep
+  - name: socket
+    list:
+      - name: asyncio
+      - title: asyncore + asynchat
+        name: asyncore
+      - name: socket
+  - name: subprocess

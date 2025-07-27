@@ -1,0 +1,52 @@
+title: database
+list:
+  - name: sqlite
+    list:
+      - title: build from source
+        name: build-sqlite
+      - title: sqlite system tables
+        name: sqlite-sys-table
+  - name: odbc
+    list:
+      - name: bind
+      - title: build unixodbc
+        desc: build unixodbc from source
+        name: build-unixodbc
+      - title: catalog functions
+        name: catalog
+      - title: dm info
+        name: dm-info
+      - title: odbc api cheatsheet
+        name: odbc-api
+      - title: odbc api notes
+        name: odbc-api-notes
+      - title: odbc attributes
+        name: odbc-attr
+      - title: odbc config
+        desc: configurate ODBC on different platforms and DM (driver manager)
+        name: odbc-config
+      - title: sqlstate & constants
+        name: odbc-const
+      - title: odbc data types
+        name: odbc-data-type
+      - title: odbc driver manager
+        name: odbc-driver-manager
+      - name: sql-to-c
+      - title: unixodbc code study
+        desc: |
+          code study of unixodbc (2.3.1), topics include: log
+        name: unixodbc-code-study
+  - name: jdbc
+    list:
+      - title: jdbc data types
+        name: jdbc-data-type
+  - desc: NoSQL database
+    name: nosql
+    list:
+      - title: mongodb cheatsheet
+        name: mongo
+  - name: postgres
+    list:
+      - name: launch-by-docker
+      - title: postgresql user
+        name: user

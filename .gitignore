@@ -4,4 +4,5 @@
 # they are usually specially used for some apps
 # e.g. .*.swp by vim
 .*
+!.gitignore
 

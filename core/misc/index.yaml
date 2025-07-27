@@ -1,0 +1,10 @@
+title: misc
+list:
+  - name: bookmarks
+  - title: home brew
+    name: home-brew
+  - name: shortcuts
+  - name: utf8
+  - title: vim
+    name: vim-tips
+  - name: vsc

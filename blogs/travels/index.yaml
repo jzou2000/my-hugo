@@ -1,0 +1,11 @@
+title: travels
+list:
+  - title: 京都
+    name: kyoto
+    list:
+      - title: 概述
+        name: guide
+      - title: 二条城
+        name: nijo-castle
+  - title: trip to morocco
+    name: morocco

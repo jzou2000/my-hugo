@@ -1,5 +1,5 @@
 ---
-title: Cancer Calender
+title: Fight Cancer Calender
 nav: calender
 ---
 

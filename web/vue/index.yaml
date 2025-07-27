@@ -1,0 +1,35 @@
+title: vue
+list:
+  - name: boilerplate
+  - name: bookmarks
+  - name: intro
+  - name: resources
+  - title: process svg element
+    desc: manipulate svg elements by vue
+    name: svg-elements
+  - title: accessing DOM
+    name: vue-access-dom
+  - title: minimal project setup
+    name: vue-app-min
+  - title: process svg element async
+    desc: manipulate svg elements asynchrously by vue
+    name: vue-async
+  - title: vue component
+    name: vue-component
+  - title: vue component 2
+    desc: using component
+    name: vue-component-2
+  - title: drag-n-drop
+    name: vue-dnd
+  - title: vue in hugo
+    name: vue-in-hugo
+  - title: quick start
+    name: vue-quick-start
+  - title: svg components
+    desc: manipulate svg elements asynchrously by vue
+    name: vue-svg-component-2
+  - title: tabs by css
+    name: vue-ui-tabs
+  - title: ultra-light vue
+    desc: build an ultra-light Vue application without installing anything
+    name: vue-ultralight

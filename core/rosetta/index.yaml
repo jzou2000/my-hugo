@@ -1,0 +1,40 @@
+title: rosetta
+list:
+  - title: runtime
+    name: Runtime
+    list:
+      - name: args
+      - name: env
+      - name: misc
+  - name: container
+    list:
+      - title: hash/dictionary
+        name: hash
+      - name: link
+      - name: set
+      - name: tree
+      - title: vector/array
+        name: vector
+  - name: feature
+    list:
+      - title: branch/loop
+        name: branch-loop
+      - name: exception
+      - name: generator
+      - title: lambda/enclosure
+        name: lambda
+  - name: fs
+  - desc: string operation
+    name: string
+    list:
+      - name: basic
+      - name: format
+      - name: io
+      - name: re
+      - title: tempalte/interpolation
+        name: template
+      - name: unicode
+  - name: threads
+    list:
+      - name: cv
+      - name: mutex

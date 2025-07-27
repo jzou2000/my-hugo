@@ -1,0 +1,140 @@
+# it is used populate menu and home page
+favorites:
+- name: 文学城新闻
+  icon: /images/wenxuenews.svg
+  href: https://www.wenxuecity.com/news/
+- name: Gmail
+  icon: /images/gmail.svg
+  href: https://mail.google.com
+- name: github
+  icon: /images/github.svg
+  href: https://github.com
+- name: chatgpt
+  icon: /images/chatgpt.svg
+  href: https://chatgpt.com
+- name: grok
+  icon: /images/grok.svg
+  href: https://grok.com
+- name: lifelabs
+  icon: /images/lifelabs.svg
+  href: https://login.bc.mycarecompass.lifelabs.com/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Did_token%2520token%26client_id%3Dupp-bc%26state%3DegRD6GsppHvHiH06Ly7Ia67ZPUHaD88vfD_jaK3v%26redirect_uri%3Dhttps%253A%252F%252Fwww.bc.mycarecompass.lifelabs.com%252Fhome%26scope%3Dopenid%2520profile%2520upp-api.bc%2520idp-api.bc%26nonce%3DegRD6GsppHvHiH06Ly7Ia67ZPUHaD88vfD_jaK3v%26locale%3Den-ca%26screenType%3Ddefault%26province
+- name: W3Schools
+  icon: /images/w3schools.svg
+  href: https://www.w3schools.com
+
+catalogs:
+  - title: Blogs
+    name: blogs
+    list:
+      - name: cancer
+        title: Fight & Win
+        icon: /images/fight-cancer-and-win.png
+      - name: vancouver
+        title: Vancouver
+        icon: /images/vancouver.svg
+      - name: recipe
+        title: Recipes
+        icon: /images/recipe.svg
+      - name: english
+        title: Learn English
+        icon: /images/english.svg
+      - name: travels
+        icon: /images/travel.svg
+      - title: French Camino
+        name: camino
+        icon: /images/camino.svg
+      - title: Blood Tests
+        name: blood-tests
+        icon: /images/blood.svg
+      - title: Varicose Veins
+        name: varicose
+        icon: /images/health.svg
+      - name: Workout
+        icon: /images/workout.svg
+      - name: '2023'
+  - title: IoT
+    name: iot
+    list:
+      - name: arduino
+        icon: /images/arduino.svg
+      - name: esp
+        title: esp32
+        icon: /images/espressif.svg
+      - title: Electroincs
+        name: electronics
+        icon: /images/circuit.svg
+      - name: freecad
+        title: FreeCAD
+        icon: /images/freecad.svg
+      - name: general
+        icon: /images/presentation.svg
+  - title: WWW
+    name: web
+    list:
+      - name: css
+        icon: /images/css.svg
+      - name: html
+        icon: /images/html.svg
+      - name: hugo
+        icon: /images/hugo.svg
+      - title: javascript
+        name: js
+        icon: /images/js.svg
+      - name: vue
+        icon: /images/vuejs.svg
+      - name: svg
+        icon: /images/svg.svg
+      - name: misc
+        icon: /images/misc.svg
+  - title: Comp Core
+    name: core
+    list:
+      - title: C/C++
+        name: c++
+        icon: /images/c++.svg
+      - name: python
+        icon: /images/python.svg
+      - name: shell
+        icon: /images/shell.svg
+      - name: git
+        icon: /images/git.svg
+      - name: linux
+        icon: /images/linux.svg
+      - title: database
+        name: db
+        icon: /images/db.svg
+      - name: docker
+        icon: /images/docker.svg
+      - name: jenkins
+        icon: /images/jenkins.svg
+      - name: network
+        icon: /images/network.svg
+      - name: algorithm
+        icon: /images/algorithm.svg
+      - title: open source
+        name: open-source
+        icon: /images/copyleft.svg
+      - name: java
+        icon: /images/java.svg
+      - name: rosetta
+        icon: /images/rosetta.svg
+      - name: security
+        icon: /images/security.svg
+      - name: misc
+        icon: /images/misc.svg
+
+toolbox:
+  # use to populate toolbox submenu, which is at right side of menu
+  - name: grok
+    title: grok
+    # title is the text that actually shown in the menu, default is name value
+    href: https://x.ai
+    icon: /images/xai.svg
+  - name: chatgpt
+    icon: /images/chatgpt.svg
+    href: https://chatgpt.com
+  - name: youdao
+    title: 有道
+    icon: /images/youdao.svg
+    href: https://dict.youdao.com/?keyfrom=cidian
+
