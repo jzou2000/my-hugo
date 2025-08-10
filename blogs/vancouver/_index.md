@@ -1,4 +1,3 @@
 ---
 title: Vancouver
-toplevel: true
 ---

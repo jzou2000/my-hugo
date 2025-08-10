@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 220 220" style="enable-background:new 0 0 220 220;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0;fill:#A6C4FF;}
+	.st1{fill:#F6F5FF;}
+	.st2{fill:none;stroke:#FF625A;stroke-width:4.3465;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:none;stroke:#0D7EF9;stroke-width:4.3465;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:#F6F5FF;stroke:#1E1E1E;stroke-width:4.9261;stroke-linecap:round;stroke-linejoin:round;}
+	.st5{fill:none;stroke:#0D7EF9;stroke-width:7.0822;stroke-linecap:round;stroke-linejoin:round;}
+	.st6{opacity:0.5;fill:none;stroke:#0D7EF9;stroke-width:7.0822;stroke-linecap:round;stroke-linejoin:round;}
+	.st7{clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st8{fill:none;stroke:#1E1E1E;stroke-width:13.0396;stroke-linecap:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#F6F5FF;stroke-width:7.2442;stroke-linecap:round;stroke-miterlimit:10;}
+	.st10{fill:#FADF73;stroke:#0D7EF9;stroke-width:4.3465;stroke-linecap:round;stroke-linejoin:round;}
+	.st11{fill:#FF6BFF;stroke:#1E1E1E;stroke-width:4.3465;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g>
+	<circle class="st0" cx="110" cy="110" r="110"/>
+	<circle class="st1" cx="106.2" cy="22" r="7"/>
+	<circle class="st2" cx="175.7" cy="152.6" r="11.6"/>
+	<g>
+		<line class="st3" x1="79.5" y1="45.8" x2="57.6" y2="36.4"/>
+		<line class="st3" x1="63.9" y1="52" x2="73.3" y2="30.1"/>
+	</g>
+	<polygon class="st4" points="102.4,138.4 61.2,147.6 79,109.3 57.5,73 99.4,78.1 127.2,46.4 135.4,87.8 174.1,104.5 137.3,125.1 
+		133.3,167.1 	"/>
+	<g>
+		<g>
+			<circle class="st5" cx="65.6" cy="144.1" r="24.6"/>
+			<circle class="st6" cx="65.6" cy="144.1" r="39.3"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="125.8,51.8 133.2,89.6 168.6,104.8 134.9,123.6 131.3,161.9 103.1,135.7 65.6,144.1 81.8,109.2 
+				62.2,76.1 100.4,80.7 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="158.6827" y1="152.4623" x2="158.6827" y2="57.0399">
+			<stop  offset="0" style="stop-color:#FF6BFF"/>
+			<stop  offset="1" style="stop-color:#FAE072"/>
+		</linearGradient>
+		<ellipse class="st7" cx="158.7" cy="104.8" rx="47.8" ry="47.7"/>
+	</g>
+	<g>
+		<line class="st8" x1="139.3" y1="183.2" x2="176.2" y2="59.6"/>
+		<line class="st9" x1="139.3" y1="183.2" x2="176.2" y2="59.6"/>
+		<circle class="st10" cx="176.2" cy="59.6" r="11.6"/>
+		<circle class="st11" cx="139.3" cy="183.2" r="11.6"/>
+	</g>
+</g>
+</svg>

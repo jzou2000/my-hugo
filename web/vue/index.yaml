@@ -1,8 +1,6 @@
 title: vue
 list:
   - name: boilerplate
-  - name: bookmarks
-  - name: intro
   - name: resources
   - title: process svg element
     desc: manipulate svg elements by vue

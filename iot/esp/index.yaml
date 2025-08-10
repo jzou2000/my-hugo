@@ -1,3 +1,8 @@
-title: esp
+title: ESP32
 list:
-  - name: esp32
+  - name: waveshare-s3-mini
+  - name: waveshare-s3-touch-lcd-2
+  - name: waveshare-s3-2.06inc-battery
+  - name: project-s3-mini
+  
+

@@ -1,0 +1,12 @@
+title: How-to
+list:
+  - title: Mac Tips
+    name: mac-tips
+    list:
+      - name: screenshot
+  - title: Vim Tips
+    name: vim-tips
+  - title: VSC Tips
+    name: vsc-tips
+    list:
+      - name: shortcuts

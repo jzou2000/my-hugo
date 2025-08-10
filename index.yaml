@@ -26,6 +26,12 @@ catalogs:
   - title: Blogs
     name: blogs
     list:
+      - name: online-tools
+        title: Online Tools
+        icon: /images/tools-2.svg
+      - name: how-to
+        title: How-to
+        icon: /images/howto.svg
       - name: cancer
         title: Fight & Win
         icon: /images/fight-cancer-and-win.png
@@ -52,22 +58,23 @@ catalogs:
       - name: Workout
         icon: /images/workout.svg
       - name: '2023'
-  - title: IoT
+  - title: DIY
     name: iot
     list:
-      - name: arduino
-        icon: /images/arduino.svg
+      - name: intro
+        title: Basic
+        icon: /images/presentation.svg
       - name: esp
-        title: esp32
+        title: ESP32
         icon: /images/espressif.svg
+      - name: Arduino
+        icon: /images/arduino.svg
       - title: Electroincs
         name: electronics
         icon: /images/circuit.svg
       - name: freecad
         title: FreeCAD
         icon: /images/freecad.svg
-      - name: general
-        icon: /images/presentation.svg
   - title: WWW
     name: web
     list:

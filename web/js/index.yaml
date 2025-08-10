@@ -1,7 +1,5 @@
 title: javascript
 list:
-  - title: bookmarks
-    name: bookmark
   - title: embedded js engine
     name: embedded
     list:
