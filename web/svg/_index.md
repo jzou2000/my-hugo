@@ -7,7 +7,7 @@ list:
 
 - href: https://svgjs.dev/docs/3.2
   img: /images/svgjs.png
-  title: SVG.js v2.7
+  title: SVG.js v3.2
 
 - href: https://www.hongkiat.com/blog/svg-animations/
   img: /images/hongkiat.png

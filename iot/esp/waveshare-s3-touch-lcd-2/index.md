@@ -9,9 +9,6 @@ list:
   img: s3-touch-2.png
 {{< /bookmarks >}}
 
-## Pins Definition
-
 <img src="pins.png" alt="pins definition">
 
-## What's on Board
 <img src="onboard.png" alt="what's on board">

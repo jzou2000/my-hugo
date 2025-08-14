@@ -40,4 +40,5 @@ list:
         name: page-info
       - title: syntax highlight
         name: syntax-highlight
+      - name: refresh
   - name: vars

@@ -5,3 +5,5 @@ list:
   - name: resources
   - name: roncesvalles
   - name: sjpdp
+  - name: blogs
+    title: 博客

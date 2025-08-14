@@ -21,6 +21,12 @@ favorites:
 - name: W3Schools
   icon: /images/w3schools.svg
   href: https://www.w3schools.com
+- name: svgator
+  href: https://www.svgator.com/create-svg
+  icon: /images/svgator.svg
+- name: oie
+  href: https://www.online-image-editor.com
+  icon: /images/online-image-editor.svg
 
 catalogs:
   - title: Blogs
@@ -32,9 +38,12 @@ catalogs:
       - name: how-to
         title: How-to
         icon: /images/howto.svg
-      - name: cancer
-        title: Fight & Win
-        icon: /images/fight-cancer-and-win.png
+      - title: Health
+        name: health
+        icon: /images/blood.svg
+      - title: Movies
+        name: movies
+        icon: /images/movie.svg
       - name: vancouver
         title: Vancouver
         icon: /images/vancouver.svg
@@ -49,12 +58,6 @@ catalogs:
       - title: French Camino
         name: camino
         icon: /images/camino.svg
-      - title: Blood Tests
-        name: blood-tests
-        icon: /images/blood.svg
-      - title: Varicose Veins
-        name: varicose
-        icon: /images/health.svg
       - name: Workout
         icon: /images/workout.svg
       - name: '2023'
@@ -144,4 +147,11 @@ toolbox:
     title: 有道
     icon: /images/youdao.svg
     href: https://dict.youdao.com/?keyfrom=cidian
-
+  - name: svgator
+    title: SVGator
+    href: https://www.svgator.com/create-svg
+    icon: /images/svgator.svg
+  - name: oie
+    title: OIE
+    href: https://www.online-image-editor.com
+    icon: /images/online-image-editor.svg

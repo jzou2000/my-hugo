@@ -6,38 +6,39 @@ title: Text Tools
 list:
 
 - href: https://www.markdownguide.org/basic-syntax/
-  img: /images/markdown.svg
+  img: /images/markdown-guide.png
   title: Markdown Guide
 
 - href: https://daringfireball.net/projects/markdown/syntax
-  img: /images/markdown.svg
-  title: Daring Fireball
-  description: Markdown Syntax
+  img: /images/daring-fireball.png
+  title: Markdown Syntax
 
 - href: https://stackedit.io/app#
-  img: /images/markdown.svg
+  img: /images/stackedit.svg
   title: StackEdit
   description: Free online markdown editor
 
-- href: https://jbt.github.io/markdown-editor/
-  img: /images/markdown.svg
-  title: Markdown Editor
-  description: Another neat free online markdown editor
-
 - href: https://www.liquid-technologies.com/online-xml-validator
-  img: ../liquid.png
+  img: /images/liquid.png
   title: XML Validator
   description: Free Online XML Validator (Well formed)
 
 - href: http://json-schema.org/
-  img: ../json-schema.png
+  img: /images/json-schema.svg
   title: Json Schema Validator
 
 - href: https://onlinetexttools.com/
+  img: /images/online-text-tools.png
   title: Online Text Tools
   description: Simple, free and easy to use text processing utilities
 
-- href: https://codebeautify.org/json-tools
-  title: Best Online JSON Tools
+- href: https://codebeautify.org/
+  img: /images/code-beautify.webp
+  title: Code Beautify
+  description: Many tools, e.g. XML/JSON/SVG formatters, validators, etc
+
+- href: https://www.webfx.com/tools/emoji-cheat-sheet
+  img: /images/emoji-cheat-sheet.png
+  title: Emoji Cheat Sheet
 
 {{< /bookmarks >}}
