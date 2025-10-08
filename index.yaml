@@ -61,6 +61,8 @@ catalogs:
       - name: Workout
         icon: /images/workout.svg
       - name: '2023'
+      - name: bookmarks
+        icon: /images/bookmark.svg
   - title: DIY
     name: iot
     list:

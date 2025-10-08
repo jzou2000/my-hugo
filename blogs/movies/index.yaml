@@ -1,7 +1,13 @@
 title: Movies
 list:
+  - name: ddys
+    title: 低端影视
   - name: tv-shows
     title: TV Shows
-  - name: other-movie-sites
+  - name: mjwo
+    title: 美剧窝
+  - name: other-sites
     title: Other Movie Sites
+  - name: musics
+    title: Musics
 

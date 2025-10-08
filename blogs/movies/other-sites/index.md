@@ -13,9 +13,6 @@ list:
 - href: https://www.haitu.xyz
   title: 海兔影院
 
-- href: https://www.haitu.xyz/vodplay/146516-3-1.html
-  title: 老友记 第一季
-
 - href: https://www.iyf.tv
   title: 爱一帆
 
@@ -28,13 +25,14 @@ list:
 - href: https://www.mjwo.net/
   title: 美剧窝
 
-- href: https://www.mjwo.net/play/13098-1-1
-  title: 宋飞正传 第一季
-
 - href: https://www.hdmoli.cc
   title: HDmoli
 
 - href: https://www.kpkuang.org
   title: 看片狂人
+
+- href: https://www.nbyy.cc
+  title: 泥巴影院
+  img: nbyy.png
 
 {{< /bookmarks >}}
