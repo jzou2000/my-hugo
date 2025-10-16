@@ -1,3 +1,10 @@
 title: recipe
 list:
   - name: begrette
+  - name: code-dishes
+    title: 凉拌菜30道
+    list:
+      - name: video
+        title: 视频
+  - name: awei
+    title: 万能工具人阿伟

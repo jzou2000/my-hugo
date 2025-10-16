@@ -26,13 +26,4 @@ list:
   img: meishi.jpg
   description: 美食天下
 
-- href: https://zhuanlan.zhihu.com/p/540768856
-  title: 30道特色凉拌菜
-  img: 30liangban.jpg
-
-- href: https://www.youtube.com/@awsl555
-  title: 万能工具人阿伟
-  img: awei.jpg
-
-
 {{< /bookmarks >}}

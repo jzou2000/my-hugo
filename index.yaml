@@ -44,6 +44,9 @@ catalogs:
       - title: Movies
         name: movies
         icon: /images/movie.svg
+      - title: Tennis
+        name: tennis
+        icon: /images/tennis.svg
       - name: vancouver
         title: Vancouver
         icon: /images/vancouver.svg
