@@ -33,17 +33,10 @@ list:
   img: westland-insurance.png
   title: myHSA
 
-- href: https://www.ohmusictheory.com/music101/category/all
-  img: 乐理101.png
-  
 - href: https://ssyoutube.com/en803AM
   img: youtube-downloader.png
 
 - href: https://www.globalindustrial.ca/c/motors_power_transmission/vbelts_timing_belts/timing_belts
   img: global-industrial.png
-
-- href: https://www.youtube.com/watch?v=nyU7ladeHzs&list=PLIHXVyo2Z-DjO-i_XPi4NKosl5a5D1wOW&index=2
-  img: 三分钟音乐社.png
-  title: 三分钟音乐社 - 基础乐理
 
 {{< /bookmarks >}}

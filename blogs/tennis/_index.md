@@ -3,14 +3,6 @@ title: Tennis
 ---
 
 
-<div class="yt-wrapper">
-
-{{< youtube id=KAHHsaHeT00 loading=lazy class=yt >}}
-
-{{< youtube id=DW4B3Oh-E6Q loading=lazy class=yt >}}
-
-</div>
-
 {{< bookmarks >}}
 list:
 
@@ -19,9 +11,22 @@ list:
   title: The Challenge Court
   description: Winston Du - Showcasing talent at all levels of the game ...
 
-- href: https://www.youtube.com/watch?v=YqgcykDGB2A&list=PL01q4ywxUNvkCL-jE-x506_-iEDCYLk7z
-  img: anna.jpg
-  title: Teaching Anna from Scratch
-  description: In this beginner tennis lesson, I teach my student Anna how to hit the forehand, backhand and the serve. If you have never played before you can follow the tips in this video to get started with tennis.
+- href: https://www.youtube.com/watch?v=qvm6PJ3pLbY&list=PLEd-bhJ7w1qmIjymwE2iH1Aq6vF3xLRJi
+  img: perfect-toss.jpg
+  title: The LAST Ball Toss Lesson You Ever Need To Watch
+  description: The tennis serve toss has always been a controversial topic in the tennis community. In today's video, we have a complete in-depth analysis of everything you need to know on the serve toss all the way from how to hold the ball with your fingers to drills to improve consistency on your toss. We hope you enjoy
 
 {{< /bookmarks >}}
+
+{{<van-list>}}
+
+- yt: KAHHsaHeT00
+  title: TOP 10 Best Tennis Academies in the WORLD!
+  text: 6:35
+
+- yt: DW4B3Oh-E6Q
+  title: $1700 For 1 WEEK - Mouratoglou Tennis Academy
+  text: I take a look at whether my experience at the world-famous Mouratoglou tennis academy is worth what it would have cost for 1 week. I got the week for free thanks to Dunlop. 3:27
+
+{{</van-list>}}
+

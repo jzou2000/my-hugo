@@ -13,4 +13,9 @@ list:
   img: 三步两桥.jpg
   title: 三步两桥 - 一个人的徒步
 
+- href: https://www.visitspain.com.cn/itineraries/theme/pilgrimage-to-santiago-de-compostela.html
+  img: santiago-de-compostela.jpg
+  title: 圣地亚哥之路
+  description: 中国驻西班牙大使馆提供
+
 {{< /bookmarks >}}

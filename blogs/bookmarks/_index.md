@@ -9,9 +9,11 @@ list:
 - href: https://liujiacai.net
   title: 刘家财
   img: liujiacai.webp
+  description: 刘家财的个人博客
 
 - href: https://space.bilibili.com/20259914
   title: 稚晖君
+  description: 稚晖君在bilibili
 
 - href: https://github.com/peng-zhihui
   title: 稚晖 on github
@@ -31,10 +33,6 @@ list:
   description: Science and art, life in between
   img: changkunou.png
 
-- href: https://www.visitspain.com.cn/itineraries/theme/pilgrimage-to-santiago-de-compostela.html
-  title: 圣地亚哥之路
-  description: 中国驻西班牙大使馆提供
-
 - href: https://www.youtube.com/@bobross_thejoyofpainting
   img: bob-ross.jpg
   title: Bob Ross
@@ -47,5 +45,12 @@ list:
 - href: https://www.kanunu8.com
   title: 努努书坊
   img: knunu.png
+  
+- href: https://www.youtube.com/watch?v=nyU7ladeHzs&list=PLIHXVyo2Z-DjO-i_XPi4NKosl5a5D1wOW&index=2
+  img: 三分钟音乐社.png
+  title: 三分钟音乐社 - 基础乐理
+
+- href: https://www.ohmusictheory.com/music101/category/all
+  img: 乐理101.png
   
 {{< /bookmarks >}}

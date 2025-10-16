@@ -57,14 +57,17 @@ catalogs:
         title: Learn English
         icon: /images/english.svg
       - name: travels
+        title: Travels
         icon: /images/travel.svg
       - title: French Camino
         name: camino
         icon: /images/camino.svg
-      - name: Workout
+      - name: workout
+        title: Workout
         icon: /images/workout.svg
       - name: '2023'
       - name: bookmarks
+        title: Bookmarks
         icon: /images/bookmark.svg
   - title: DIY
     name: iot

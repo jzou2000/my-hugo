@@ -4,24 +4,36 @@ title: 其他
 
 ## 李娜
 
-<div class="yt-wrapper">
+{{< van-list >}}
 
-{{< youtube id=g10RbEuwKyA loading=lazy class=yt >}}
+- title: Serena Williams vs Li Na
+  yt: g10RbEuwKyA
+  text: Serena Williams vs Li Na | 2014 Miami Final | Highlights, 13:14
 
-{{< youtube id=dmQ53el21p8 loading=lazy class=yt >}}
+- title: 李娜vs齐布尔科娃
+  yt: dmQ53el21p8
+  text: 【哇哈体育】2014 1 25 澳网女单决赛 李娜vs齐布尔科娃 高清 2014 Australian Open Na Li vs. Dominika Cibulkova HD, 2:12:35
 
-{{< youtube id=q0O7-OL2tAs loading=lazy class=yt >}}
+- title: 李娜vs齐布尔科娃
+  yt: q0O7-OL2tAs
+  text: Li Na v Kim Clijsters Extended Highlights | Australian Open 2012 Fourth Round, 9:45
 
-</div>
+{{< /van-list >}}
 
 ## 郑钦文
 
-<div class="yt-wrapper">
+{{< van-list >}}
 
-{{< youtube id=xJCy7Vveofk loading=lazy class=yt >}}
+- title: vs Aryna Sabalenka, 2024 Wuhan Final
+  yt: xJCy7Vveofk
+  text: Aryna Sabalenka vs. Qinwen Zheng | 2024 Wuhan Final Full Match | WTA Flashback, 2:22:19
 
-{{< youtube id=8EShbWpBm_0 loading=lazy class=yt >}}
+- title: vs Aryna Sabalenka, Australian Open 2024 Final
+  yt: 8EShbWpBm_0
+  text: 【Qinwen Zheng v Aryna Sabalenka Full Match | Australian Open 2024 Final, 1:43:21
 
-{{< youtube id=covN-2KNZTw loading=lazy class=yt >}}
+- title: 2025 Training
+  yt: covN-2KNZTw
+  text: 5:56
 
-</div>
+{{< /van-list >}}

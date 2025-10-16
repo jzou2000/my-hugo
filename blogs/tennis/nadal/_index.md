@@ -2,20 +2,34 @@
 title: Rafael Nadal
 ---
 
-<div class="yt-wrapper">
+{{<van-list>}}
 
-{{< youtube id=CzrTyk-SBWU loading=lazy class=yt >}}
+- yt: CzrTyk-SBWU
+  title: 《封神誌》"紅土"之神【納達爾】
+  text: 《封神誌》"紅土"之神【納達爾】 | 費德勒都對他束手無策 | 紅土球場上最強的男人 Rafael Nadal 32:09
 
-{{< youtube id=rj6n4lGx_Cw loading=lazy class=yt >}}
+- yt: rj6n4lGx_Cw
+  title: 1 HOUR Of Rafael Nadal WINNERS! 🤩
+  text: 1:01:01
 
-{{< youtube id=xH50v4k2Lws loading=lazy class=yt >}}
+- yt: xH50v4k2Lws
+  title: 1 Hour of Rafael Nadal God Mode on Clay
+  text: Rafael Nadal is the undisputed clay court GOAT in tennis! This is the first time since 2003 that Nadal isn't part of the clay court swing so let's honor him with this 1 hour montage of his best points on tennis hardest surface clay. 1:00:03
 
-{{< youtube id=Zwqc9-9lNCM loading=lazy class=yt >}}
+- yt: Zwqc9-9lNCM
+  title: Top 10 Rafael Nadal | Roland Garros | Eurosport Tennis
+  text: 5:08
 
-{{< youtube id=WzTkWVevD00 loading=lazy class=yt >}}
+- yt: WzTkWVevD00
+  title: Rafael Nadal vs Tommy Paul INTENSE Practice
+  text: Watch Rafael Nadal take on Tommy Paul at the Washington D.C. Citi Open from a court level perspective! 9:42
 
-{{< youtube id=Q7Ta9DbHKjk loading=lazy class=yt >}}
+- yt: Q7Ta9DbHKjk
+  title: Rafael Nadal Forehand Slow Motion
+  text: Rafael Nadal Tennis Forehand is one of the deadliest on tour and he is able to generate incredible topspin and power. Nadal Forehand topspin is particularly difficult to deal with because he is left handed so creates a slightly different rotation on the ball compared to right handed players. 10:10
 
-{{< youtube id=oSILailsGxc loading=lazy class=yt >}}
+- yt: oSILailsGxc
+  title: Breakdown of Nadal’s Forehand Footwork - Slow Motion
+  text: Watch the breakdown of Rafael Nadal forehand footwork in slow motion - Learn move and hit like Rafa! Rafael Nadal forehand footwork best analysis . get footwork techniques before he hits his forehand. Tennis forehand Footwork practice 10:29
 
-</div>
+{{</van-list>}}
