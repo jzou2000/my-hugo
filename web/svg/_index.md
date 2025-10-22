@@ -3,7 +3,6 @@ title: SVG
 ---
 
 {{< bookmarks >}}
-list:
 
 - href: https://svgjs.dev/docs/3.2
   img: /images/svgjs.png

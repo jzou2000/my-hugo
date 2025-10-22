@@ -3,7 +3,6 @@ title: JavaScript
 ---
 
 {{< bookmarks >}}
-list:
 
 - href: https://developer.mozilla.org/en-US/docs/Web/JavaScript
   img: /images/mdn-web-docs.svg

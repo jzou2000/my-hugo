@@ -3,7 +3,6 @@ title: Tools
 ---
 
 {{< bookmarks >}}
-list:
 
 - href: https://github.com/ytdl-org/youtube-dl
   title: youtube-dl

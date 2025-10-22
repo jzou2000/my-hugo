@@ -3,7 +3,6 @@ title: TV Shows
 ---
 
 {{< bookmarks >}}
-list:
 
 - href: https://ddys.mov/game-of-thrones
   img: game-of-thrones.jpg

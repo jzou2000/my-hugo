@@ -2,7 +2,7 @@
 title: Novac Djokovic
 ---
 
-{{< van-list >}}
+{{< yt-list >}}
 
 - title: 《封神誌》"澳網"之神【喬科維奇】
   yt: 38Aadj8krCM
@@ -49,4 +49,4 @@ title: Novac Djokovic
   yt: M3eC5egY3wA
   text: 6:39
 
-{{< /van-list >}}
+{{< /yt-list >}}

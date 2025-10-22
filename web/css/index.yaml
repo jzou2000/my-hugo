@@ -15,3 +15,12 @@ list:
   - name: position
   - title: table-related
     name: table
+  - title: Case Study
+    name: case-study
+    list:
+      - name: max-width
+        title: max-width
+      - name: flex
+        title: flex
+      - name: grid
+        title: grid

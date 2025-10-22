@@ -3,7 +3,6 @@ title: Text Tools
 ---
 
 {{< bookmarks >}}
-list:
 
 - href: https://www.markdownguide.org/basic-syntax/
   img: /images/markdown-guide.png

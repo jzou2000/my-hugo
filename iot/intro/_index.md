@@ -3,7 +3,6 @@ title: Introduction
 ---
 
 {{< bookmarks >}}
-list:
 
 - href: https://www.ladyada.net
   img: /images/ladyada.jpg

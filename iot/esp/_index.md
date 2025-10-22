@@ -3,7 +3,6 @@ title: ESP32
 ---
 
 {{< bookmarks >}}
-list:
 
 - href: https://randomnerdtutorials.com/getting-started-with-esp32
   img: /images/random-nerd.jpg

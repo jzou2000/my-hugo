@@ -4,7 +4,7 @@ title: Teaching Anna From Scratch
 
 By <a href="https://www.youtube.com/@IntuitiveTennis"><img src="intuitive-tennis.png"></a>
 
-{{< van-list >}}
+{{< yt-list >}}
 
 - title: 1. Forehand, Backhand & Serve
   yt: YqgcykDGB2A
@@ -150,4 +150,4 @@ By <a href="https://www.youtube.com/@IntuitiveTennis"><img src="intuitive-tennis
   yt: OJxe1_GvT-E
   text: A tennis coach helps a student relearn their serve after a three-year break due to foot surgery. The instructor focuses on rhythm and toss technique, addressing common serving issues. This lesson revisits fundamental elements to rebuild a strong serve.
 
-{{< /van-list >}}
+{{< /yt-list >}}

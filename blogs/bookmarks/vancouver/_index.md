@@ -3,7 +3,6 @@ title: Vancouver
 ---
 
 {{< bookmarks >}}
-list:
 
 - href: https://dorsetrealty.com
   img: dorset-realty.png

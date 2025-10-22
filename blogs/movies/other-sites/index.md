@@ -3,7 +3,6 @@ title: Other Movie Sites
 ---
 
 {{< bookmarks >}}
-list:
 
 - href: https://www.xlys02.com
   title: 修罗影视

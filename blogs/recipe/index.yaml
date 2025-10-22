@@ -1,6 +1,10 @@
 title: recipe
 list:
   - name: begrette
+  - name: western-herbs
+    title: 西餐中的香草
+  - name: ten-herbs
+    title: 十大香草
   - name: code-dishes
     title: 凉拌菜30道
     list:

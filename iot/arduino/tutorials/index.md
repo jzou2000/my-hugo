@@ -3,14 +3,46 @@ title: Tutorials
 nav: tutorials
 ---
 
-<a href='https://www.arduino.cc/'><img alt='official Arduino Site' src='arduino.png'></a>
-<a href='http://www.ladyada.net/'><img alt='LadyAda.net' src='ladyada.jpg'></a>
-<a href='https://www.ladyada.net/learn/arduino/'><img alt='LadyAda - Arduino Tutorial' src='ladyada-arduino.png'></a>
-<a href='https://randomnerdtutorials.com/'><img alt='Random Nerd Tutorials' src='random-nerd.png'></a>
-<a href='https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/'><img alt='Complete Guide for Ultrasonic Sensor HC-SR04 with Arduino' src='ultrasonic-sensor-hc-sr04.png'></a>
-<a href='Tutorials Point - Arduino'><img alt='Tutorials Point - Arduino' src='tutorials-point-arduino.png'></a>
+{{< bookmarks >}}
+-
+  href: https://www.arduino.cc/
+  title: Official Site
+  img: arduino.png
+-
+  href: http://www.ladyada.net/
+  title: LadyAda.net
+  img: ladyada.jpg
+-
+  href: https://www.ladyada.net/learn/arduino/
+  title: LadyAda
+  img: ladyada-arduino.png
+-
+  href: https://randomnerdtutorials.com/
+  title: Random Nerd
+  img: random-nerd.png
+-
+  href: https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/
+  title: Ultrasonic Sensor HC-SR04
+  img: ultrasonic-sensor-hc-sr04.png
+-
+  href: https://www.tutorialspoint.com/arduino/index.htm
+  title: Tutorials Point
+  img: tutorials-point-arduino.png
+-
+  href: https://micropython.org/
+  title: MicroPython
+  img: micro-python.png
+-
+  href: https://sparkfun.com
+  title: SparkFun
+  img: sparkfun.png
+-
+  href: https://dokumen.pub/
+  title: dokumen.pub
+  img: dokumenpub.png
+-
+  href: https://www.programmingelectronics.com/what-is-a-breakout-board-for-arduino/
+  title: breakout boards
+  img: breakout-boards.png
 
-<a href='https://micropython.org/'><img alt='MicroPython' src='micro-python.png'></a>
-<a href='https://sparkfun.com'><img alt='SparkFun' src='sparkfun.png'></a>
-<a href='https://dokumen.pub/'><img alt='dokumen.pub' src='dokumenpub.png'></a>
-<a href='https://www.programmingelectronics.com/what-is-a-breakout-board-for-arduino/'><img alt='breakout boards' src='breakout-boards.png'></a>
+{{< /bookmarks >}}

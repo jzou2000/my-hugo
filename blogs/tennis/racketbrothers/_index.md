@@ -2,7 +2,7 @@
 title: 言之有理
 ---
 
-{{<van-list>}}
+{{<yt-list>}}
 
 - yt: Y5zMpFNW8mU
   title: 網球小白到職業高手，水準能差多少？
@@ -32,4 +32,4 @@ title: 言之有理
   title: 怎样打好单手反拍&截击
   text: 16:25
 
-{{</van-list>}}
+{{</yt-list>}}

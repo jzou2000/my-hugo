@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="400" height="300" viewbox='0 0 400 300'>
+    <style>
+        .a { opacity: 0.3; }
+        .b { opacity: 0.8; }
+    </style>
+    <rect x='0' y='=0' width='400' height='300' fill='lightblue'/>
+    <rect x='10' y='10' width='380' height='280' fill='blue' class='a'/>
+    <circle cx='200' cy='150' r='120' fill='red'  class='a'/>
+    <polygon points='0,0 360,300 400,260' fill='yellow' class='b'/>
+    <polygon points='0,300 400,40 360,0' fill='green' class='b'/>
+</svg>

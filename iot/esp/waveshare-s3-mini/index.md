@@ -4,7 +4,6 @@ nav: waveshare-s3-mini
 ---
 
 {{< bookmarks >}}
-list:
 
 - href: https://www.waveshare.com/esp32-s3-zero.htm
   img: zero.png

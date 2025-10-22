@@ -12,7 +12,6 @@ The client is a web app that uses BLE api to get information and control the S3 
 Grok is used to generate the initial codes.
 
 {{< bookmarks >}}
-list:
 
 - href: https://www.waveshare.com/wiki/ESP32-S3-Zero
   img: zero.png

@@ -1,16 +1,15 @@
 ---
 title: 万能工具人阿伟
 ---
-{{< bookmarks >}}
-list:
+{{< img-list >}}
 
 - href: https://www.youtube.com/@awsl555
   title: 万能工具人阿伟
   img: awei.jpg
 
-{{< /bookmarks >}}
+{{< /img-list >}}
 
-{{< van-list >}}
+{{< yt-list >}}
 
 - title: 10道10元超简单素菜
   yt: HxHsMXZ1M6k
@@ -80,4 +79,4 @@ list:
   yt: rKABgqF57cU
   text: 猪肉白菜馅、香菇鸡肉馅、牛肉芹菜馅、鲜虾韭黄馅、素三鲜馅、韭菜鸡蛋馅
 
-{{< /van-list >}}
+{{< /yt-list >}}

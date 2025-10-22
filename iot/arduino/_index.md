@@ -4,7 +4,6 @@ title: Arduino
 
 
 {{< bookmarks >}}
-list:
 
 - href: https://www.tutorialspoint.com/arduino/index.htm
   img: /images/tutorialspoint.svg

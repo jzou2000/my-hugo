@@ -3,7 +3,6 @@ title: 博客
 ---
 
 {{< bookmarks >}}
-list:
 
 - href: https://blog.wenxuecity.com/myblog/80894/202401/12107.html
   img: 千里行.png

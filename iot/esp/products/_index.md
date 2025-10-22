@@ -5,7 +5,6 @@ title: Products
 ## Waveshare
 
 {{< bookmarks >}}
-list:
 
 - href: https://www.waveshare.com/wiki/ESP32-S3-Zero
   img: s3-zero.png
@@ -27,7 +26,6 @@ list:
 ## SeeedStudio
 
 {{< bookmarks >}}
-list:
 
 - href: https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-Pre-Soldered-p-6328.html
   img: xiao-c6.png

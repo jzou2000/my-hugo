@@ -5,7 +5,6 @@ title: Images & SVGs
 ## SVG
 
 {{< bookmarks >}}
-list:
 
 - href: https://www.svgator.com/create-svg
   img: /images/svgator.svg
@@ -64,7 +63,6 @@ list:
 ## Repos
 
 {{< bookmarks >}}
-list:
 
 - href: https://www.vecteezy.com/
   img: /images/vecteezy.svg

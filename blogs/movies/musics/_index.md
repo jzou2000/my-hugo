@@ -2,7 +2,7 @@
 title: Musics
 ---
 
-{{<van-list>}}
+{{< yt-list >}}
 
 - yt: yVcCiEM28WQ
   title: top 100 most recognizable songs
@@ -14,4 +14,4 @@ title: Musics
 - yt: DzSBd4OlQRQ
   title: 80年代全球最火的30首神曲
 
-{{</van-list>}}
+{{< /yt-list >}}

@@ -4,7 +4,7 @@ title: 其他
 
 ## 李娜
 
-{{< van-list >}}
+{{< yt-list >}}
 
 - title: Serena Williams vs Li Na
   yt: g10RbEuwKyA
@@ -18,11 +18,11 @@ title: 其他
   yt: q0O7-OL2tAs
   text: Li Na v Kim Clijsters Extended Highlights | Australian Open 2012 Fourth Round, 9:45
 
-{{< /van-list >}}
+{{< /yt-list >}}
 
 ## 郑钦文
 
-{{< van-list >}}
+{{< yt-list >}}
 
 - title: vs Aryna Sabalenka, 2024 Wuhan Final
   yt: xJCy7Vveofk
@@ -36,4 +36,4 @@ title: 其他
   yt: covN-2KNZTw
   text: 5:56
 
-{{< /van-list >}}
+{{< /yt-list >}}

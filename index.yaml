@@ -47,9 +47,6 @@ catalogs:
       - title: Tennis
         name: tennis
         icon: /images/tennis.svg
-      - name: vancouver
-        title: Vancouver
-        icon: /images/vancouver.svg
       - name: recipe
         title: Recipes
         icon: /images/recipe.svg
@@ -65,7 +62,6 @@ catalogs:
       - name: workout
         title: Workout
         icon: /images/workout.svg
-      - name: '2023'
       - name: bookmarks
         title: Bookmarks
         icon: /images/bookmark.svg

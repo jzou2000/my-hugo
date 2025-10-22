@@ -3,7 +3,6 @@ title: Shopping
 ---
 
 {{< bookmarks >}}
-list:
 
 - href: https://www.aosom.ca/item/aosom-kick-scooter-for-kids-teen-ride-on-children-scooter-with-adjustable-handlebar-2-brakes-basket-cupholder~18RETMKTP6O00.html?recv=eyJwYWdldHlwZSI6Iml0bSIsInBhZ2VpZCI6IjFBOTVGRUJCNUZHMDAifQ==
   img: /images/aosom.png

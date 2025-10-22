@@ -4,7 +4,6 @@ title: 低端影视
 
 
 {{< bookmarks >}}
-list:
 
 - href: https://ddys.mov/a-perfect-world
   img: a-perfect-world.jpg

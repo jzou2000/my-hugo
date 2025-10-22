@@ -2,7 +2,7 @@
 title: Rafael Nadal
 ---
 
-{{<van-list>}}
+{{< yt-list >}}
 
 - yt: CzrTyk-SBWU
   title: 《封神誌》"紅土"之神【納達爾】
@@ -32,4 +32,4 @@ title: Rafael Nadal
   title: Breakdown of Nadal’s Forehand Footwork - Slow Motion
   text: Watch the breakdown of Rafael Nadal forehand footwork in slow motion - Learn move and hit like Rafa! Rafael Nadal forehand footwork best analysis . get footwork techniques before he hits his forehand. Tennis forehand Footwork practice 10:29
 
-{{</van-list>}}
+{{< /yt-list >}}

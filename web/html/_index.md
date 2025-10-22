@@ -4,7 +4,6 @@ title: HTML
 
 
 {{< bookmarks >}}
-list:
 
 - href: https://developer.mozilla.org/en-US/docs
   img: /images/mdn-web-docs.svg

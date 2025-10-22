@@ -3,7 +3,7 @@ title: Patrick Mouratoglou
 ---
 
 {{< bookmarks >}}
-list:
+
 - href: https://www.youtube.com/@patrickmouratoglou_official
   img: patrick-mouratoglou.png
   title: Patrick Mouratoglou
@@ -11,7 +11,7 @@ list:
 
 {{< /bookmarks >}}
 
-{{<van-list>}}
+{{<yt-list>}}
 
 - yt: _C5LH2aaWhE
   title: Tennis Fundamentals You NEED to Master
@@ -39,4 +39,4 @@ list:
   text: |
     Today I want to tell you everything about a specific feature that we all have and that plays a tremendous role in the construction of your technique in tennis. Actually, this is true for all the sports… It is called: The dominant eye. 20:40
 
-{{</van-list>}}
+{{</yt-list>}}
