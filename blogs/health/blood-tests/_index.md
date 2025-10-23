@@ -9,3 +9,10 @@ title: Blood Tests
   title: LifeLabs
 
 {{< /bookmarks >}}
+
+{{< van-img src="cea.png" >}}
+{{< van-img src="ca-19-9.png" >}}
+{{< van-img src="lymphocytes.png" >}}
+{{< van-img src="rbc.png" >}}
+{{< van-img src="bilirubin.png" >}}
+{{< van-img src="creatinine.png" >}}

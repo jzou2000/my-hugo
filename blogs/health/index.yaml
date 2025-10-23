@@ -11,6 +11,16 @@ list:
     list:
     - name: results
       title: Explain results
+    - name: cea
+      title: CEA
+    - name: ca-19-9
+      title: CA 19-9
+    - name: gfr
+      title: estimated GFR
+    - name: cbc
+      title: CBC
+    - name: hemoglobin
+      title: Hemoglobin
   - name: varicose
     title: Varicose Veins
   - name: bookmarks

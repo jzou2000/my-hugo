@@ -35,3 +35,22 @@ title: Hair Styles
   title: Pixie with short sides
 
 {{< /img-grid >}}
+
+{{< yt-list >}}
+
+-
+  title: Pixie Haircut Tutorial
+  yt: 9Gj7K0APMZs
+-
+  title: HOW TO CUT YOUR PIXIE AT HOME
+  yt: qkqHBo8jwYs
+  text: Learn how to trim a pixie cut at home using texture shears and scissors. This tutorial demonstrates techniques for removing bulk and shaping short hair, focusing on creating a flattering silhouette. The video guides viewers through each step, from prepping tools to refining the final look.
+-
+  title: Pompadour
+  yt: XiQEMt89tEo
+  text: ghd Hairstyle How-To
+-
+  title: How To Style A Wavy Pixie
+  yt: JDCkqRozXuw
+
+{{< /yt-list >}}
