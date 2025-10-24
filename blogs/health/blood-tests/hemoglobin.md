@@ -2,6 +2,8 @@
 title: Hemoglobin Test
 ---
 
+{{< van-img "../hemoglobin .png" >}}
+
 ## What is a hemoglobin test?
 
 A hemoglobin test measures the amount of hemoglobin in your blood. Hemoglobin, sometimes abbreviated to Hb or Hgb, is an iron-rich protein in red blood cells that carries oxygen throughout the body.

@@ -3,8 +3,10 @@ list:
   - name: fight-cancer
     title: Fight Cancer and Win
     list:
-    - name: calender-2024
-      title: Calender 2022-2024
+    - name: "2022"
+    - name: "2023"
+    - name: "2024"
+    - name: "2025"
     - name: terms
   - name: blood-tests
     title: Blood Tests
@@ -21,6 +23,10 @@ list:
       title: CBC
     - name: hemoglobin
       title: Hemoglobin
+    - name: bilirubin
+      title: bilirubin
+    - name: creatinine
+      title: Creatinine
   - name: varicose
     title: Varicose Veins
   - name: bookmarks

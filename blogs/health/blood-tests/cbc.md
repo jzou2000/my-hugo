@@ -2,6 +2,10 @@
 title: Complete blood count (CBC)
 ---
 
+{{< van-img "../rbc.png" >}}
+
+{{< van-img "../lymphocytes.png" >}}
+
 ## Introduction
 
 A complete blood count (CBC) is a blood test. It's used to look at overall health and find a wide range of conditions, including anemia, infection and leukemia.

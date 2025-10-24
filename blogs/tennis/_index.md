@@ -8,19 +8,17 @@ title: Tennis
 - href: https://www.youtube.com/@WinstonDu
   img: the-challenge-court.jpg
   title: The Challenge Court
-  description: Winston Du - Showcasing talent at all levels of the game ...
+  description: Showcasing talent at all levels
 
 - href: https://www.youtube.com/watch?v=qvm6PJ3pLbY&list=PLEd-bhJ7w1qmIjymwE2iH1Aq6vF3xLRJi
   img: perfect-toss.jpg
-  title: The LAST Ball Toss Lesson You Ever Need To Watch
+  title: Ball Toss Lessons
   description: |
-    The tennis serve toss has always been a controversial topic in the tennis community.
-    
-    In today's video, we have a complete in-depth analysis of everything you need to know on the serve toss all the way from how to hold the ball with your fingers to drills to improve consistency on your toss.
+    A complete in-depth analysis of everything you need to know on the serve toss.
 
 {{< /bookmarks >}}
 
-{{<yt-list>}}
+{{< yt-list >}}
 
 - yt: KAHHsaHeT00
   title: TOP 10 Best Tennis Academies in the WORLD!
@@ -35,5 +33,5 @@ title: Tennis
     
     length: 3:27
 
-{{</yt-list>}}
+{{< /yt-list >}}
 

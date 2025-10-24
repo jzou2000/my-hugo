@@ -6,7 +6,7 @@ title: Novac Djokovic
 
 - title: 《封神誌》"澳網"之神【喬科維奇】
   yt: 38Aadj8krCM
-  text: 《封神誌》"澳網"之神【喬科維奇】 | 史上最多9座澳網冠軍(男單) | 史上第一兩次澳網三連霸(男單) 📌Novak Djokovic四大滿貫都至少三度奪冠，不只已是歷史第一人，未來恐怕也不容易再有來者；而對他來說目前唯一尚未完成的成就，大概就是「奧運金牌」了 。(33:54)
+  text: 史上最多9座澳網冠軍(男單) | 史上第一兩次澳網三連霸(男單) 📌Novak Djokovic四大滿貫都至少三度奪冠，不只已是歷史第一人，未來恐怕也不容易再有來者；而對他來說目前唯一尚未完成的成就，大概就是「奧運金牌」了 。(33:54)
 
 - title: Novak Djokovic vs Roger Federer | Wimbledon 2019
   yt: TUikJi0Qhhw

@@ -2,6 +2,8 @@
 title: CEA Test
 ---
 
+{{< van-img "../cea.png" >}}
+
 ## What is a CEA test?
 
 CEA stands for **carcinoembryonic antigen**. It is a protein found in the tissues of a developing baby. CEA levels normally become very low or disappear after birth. Healthy adults should have very little or no CEA in their body.

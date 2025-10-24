@@ -6,7 +6,7 @@ title: Rafael Nadal
 
 - yt: CzrTyk-SBWU
   title: 《封神誌》"紅土"之神【納達爾】
-  text: 《封神誌》"紅土"之神【納達爾】 | 費德勒都對他束手無策 | 紅土球場上最強的男人 Rafael Nadal 32:09
+  text: 費德勒都對他束手無策, 紅土球場上最強的男人 Rafael Nadal 32:09
 
 - yt: rj6n4lGx_Cw
   title: 1 HOUR Of Rafael Nadal WINNERS! 🤩

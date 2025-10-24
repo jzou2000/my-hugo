@@ -2,6 +2,7 @@
 title: Glomerular Filtration Rate (GFR) Test
 ---
 
+{{< van-img "../gfr.png" >}}
 
 Estimated Glomerular Filtration Rate (eGFR)
 

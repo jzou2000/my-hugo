@@ -10,9 +10,9 @@ title: Blood Tests
 
 {{< /bookmarks >}}
 
-{{< van-img src="cea.png" >}}
-{{< van-img src="ca-19-9.png" >}}
-{{< van-img src="lymphocytes.png" >}}
-{{< van-img src="rbc.png" >}}
-{{< van-img src="bilirubin.png" >}}
+{{< van-img cea.png >}}
+{{< van-img ca-19-9.png >}}
+{{< van-img lymphocytes.png >}}
+{{< van-img rbc.png >}}
+{{< van-img bilirubin.png >}}
 {{< van-img src="creatinine.png" >}}
