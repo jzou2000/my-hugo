@@ -6,6 +6,9 @@ favorites:
 - name: Gmail
   icon: /images/gmail.svg
   href: https://mail.google.com
+- name: YouTube
+  icon: /images/youtube.svg
+  href: https://www.youtube.com
 - name: github
   icon: /images/github.svg
   href: https://github.com
@@ -21,6 +24,9 @@ favorites:
 - name: W3Schools
   icon: /images/w3schools.svg
   href: https://www.w3schools.com
+- name: 有道
+  href: https://dict.youdao.com/?keyfrom=cidian
+  icon: /images/youdao.svg
 - name: svgator
   href: https://www.svgator.com/create-svg
   icon: /images/svgator.svg

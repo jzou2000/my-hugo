@@ -13,5 +13,9 @@ list:
     - name: server-v2
     - name: web-client
     - name: run-client
+  - name: cart-controller
+    title: Cart Controller
+  - name: cart
+    title: Cart
   
 

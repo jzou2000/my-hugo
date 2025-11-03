@@ -16,5 +16,4 @@ title: Tools
     with support for thousands of sites.
     The project is a fork of youtube-dl based on the now inactive youtube-dlc.
 
-
 {{< /bookmarks >}}
