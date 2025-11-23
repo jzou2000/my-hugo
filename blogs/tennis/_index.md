@@ -5,6 +5,16 @@ title: Tennis
 
 {{< bookmarks >}}
 
+- href: https://www.richmondtennisclub.com
+  img: richmond-tennis-club.png
+  title: Richmond Tennis Club
+  description: Please call 604-273-3631 to make a booking. $30 per hour.
+
+- href: https://clubspark.ca/TBCHubRichmond
+  img: tennis-bc-hub.png
+  title: Tennis BC Hub @Richmond
+  description: The Tennis BC Hub @Richmond features 4 indoor tennis courts and an indoor tennis lounge.
+
 - href: https://www.youtube.com/@WinstonDu
   img: the-challenge-court.jpg
   title: The Challenge Court

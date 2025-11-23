@@ -13,9 +13,19 @@ list:
     - name: server-v2
     - name: web-client
     - name: run-client
-  - name: cart-controller
-    title: Cart Controller
-  - name: cart
-    title: Cart
+  - name: auto-cart
+    title: Auto Cart
+    list:
+    - name: design
+      title: design
+    - name: what-i-have-now
+      title: What I Have Now
+    - name: power
+      title: Power
+    - name: motor
+      title: Motor
+    - name: controller
+      title: Controller
+
   
 
