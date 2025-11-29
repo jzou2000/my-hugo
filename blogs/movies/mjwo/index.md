@@ -12,4 +12,8 @@ title: 美剧窝
   title: 老友记 第一季
   img: friends-1.jpeg
 
+- href: https://www.meijuwo.cc/play/12803-1-1
+  title: 毕业生
+  img: graduate.jpg
+
 {{< /bookmarks >}}

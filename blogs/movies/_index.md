@@ -5,7 +5,7 @@ refresh: ddys
 
 {{< bookmarks >}}
 
-- href: https://ddys.mov
+- href: https://ddys.io
   img: ddys.png
   title: 低端影视
 
@@ -16,6 +16,10 @@ refresh: ddys
 - href: https://xiaoyakankan.com
   title: 小鸭看看
   img: xiaoyakankan.png
+
+- href: https://v.ikanbot.com
+  title: iKanBot
+  img: ikanbot.svg
 
 - href: https://www.iyf.tv
   title: 爱一帆
