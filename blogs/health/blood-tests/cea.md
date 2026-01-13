@@ -28,32 +28,6 @@ A CEA test may be used to:
 
 You may need this test if you've been diagnosed with cancer. Your health care provider may test you before you start treatment, and then regularly throughout the course of your therapy. This can help your provider see how well your treatment is working. You may also get a CEA test after you've completed treatment. The test can help show whether the cancer has come back.
 
-## What happens during a CEA test?
-
-CEA is usually measured in the blood. During a CEA blood test, a health care professional will take a blood sample from a vein in your arm, using a small needle. After the needle is inserted, a small amount of blood will be collected into a test tube or vial. You may feel a little sting when the needle goes in or out. This usually takes less than five minutes.
-
-Sometimes, CEA is tested in the spinal fluid or from fluid in the abdominal wall. For these tests, your provider will remove a small sample of fluid using a thin needle and/or syringe. The following fluids may be tested:
-
-* Cerebrospinal fluid (CSF), a clear, colorless liquid found in the spinal cord
-* Peritoneal fluid, a fluid that lines your abdominal wall
-* Pleural fluid, a liquid inside your chest cavity that covers the outside of each lung
-
-## Will I need to do anything to prepare for the test?
-
-You don't need any special preparations for a CEA blood test or a pleural fluid test.
-
-You may be asked to empty your bladder and bowels before a CSF or peritoneal fluid test.
-
-## Are there any risks to the test?
-
-There is very little risk to having a CEA blood test. You may have slight pain or bruising at the spot where the needle was put in, but most symptoms go away quickly.
-
-CEA tests of body fluids are usually very safe. Serious problems are rare. But you may experience one or more of the following side effects:
-
-* If you had a CSF test, you may feel some pain or tenderness in your back at the site where the needle was inserted. Some people get a headache after the test. This is called a post-lumbar headache.
-* If you had a peritoneal fluid test, you may feel a little dizzy or lightheaded after the procedure. There is a small risk of damage to the bowel or bladder, which may cause an infection.
-* If you had a pleural fluid test, there is a small risk of lung damage, infection, or blood loss.
-
 ## What do the results mean?
 
 If you were tested before you started treatment for cancer, your results may show:
@@ -72,7 +46,3 @@ If you had a test on a body fluid (CSF, peritoneal, or pleural), a high level of
 If you have questions about your results, talk to your health care provider.
 
 Learn more about laboratory tests, reference ranges, and understanding results.
-
-## Is there anything else I need to know about a CEA test?
-
-Many cancers don't produce CEA. If your CEA results were normal, you may still have cancer. Also, high levels of CEA can be sign of a noncancerous health condition. In addition, people who smoke cigarettes often have higher than normal CEA levels.

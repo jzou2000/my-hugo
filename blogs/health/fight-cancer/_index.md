@@ -15,10 +15,17 @@ title: I Fight Cancer and Win
 |09-21|**radiation therapy**|**1st radiation therapy, BCC 首次放疗, 每周一次**|
 |11-18|**chemotherapy** |**BCC, 1st chemotherapy cycle 1 首次化疗，三周一次**|
 |<b>2023</b>||
+|03-31|chemo            |cycle 8|
 |05-31|**Rectum Surgery**|**St. Paul Hospital, remove rectum cancer 摘除直肠癌手术**|
 |12-11|colonoscopy      |Dr. Karimuddin, St. Paul Hospital 肠镜|
 |<b>2024</b>||
 |03-04|**chemo**        |**cycle 1, biweekly**|
+|08-13|chemo            |cycle 13|
 |10-08|**Liver Surgery**|**@VGH**|
 |<b>2025</b>||
 |04-11|**chemo**        |**cycle 1 biweekly**|
+|12-11|CT scan          |@BCC|
+|12-19|chemo            |cycle 19|
+|12-30|Dr. Loree        |CT follow-up, new chemo treatment|
+|<b>2026</b>||
+|01-02|**chemo**        |**cycle 1 biweekly**|
