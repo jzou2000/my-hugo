@@ -2,11 +2,16 @@
 title: TV Shows
 ---
 
+
 {{< bookmarks >}}
 
 - href: https://ddys.mov/game-of-thrones
   img: game-of-thrones.jpg
   title: 权力的游戏
+
+- href: https://v.ikanbot.com/play/375851
+  img: brideshead-revisited.webp
+  title: 故园风雨后
 
 - href: https://ddys.mov/platonic
   img: platonic.jpg
@@ -15,10 +20,6 @@ title: TV Shows
 - href: https://ddys.mov/poker-face
   img: poker-face.jpg
   title: 扑克脸
-
-- href: https://ddys.mov/the-crown
-  img: crown.webp
-  title: 王冠
 
 - href: https://ddys.mov/succession
   img: succession.jpg

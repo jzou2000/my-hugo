@@ -4,6 +4,11 @@ title: Bookmarks
 
 {{< bookmarks >}}
 
+- href: https://accessmyhealth.ca
+  img: access-my-health.png
+  title: AccessMyHealth
+  description: 访问个人的加拿大健康医疗数据，需要BC Service登录。
+
 - href: https://clients.ia.ca/account/login?fromURI=https%3A%2F%2Flogin.service.ia.ca%2Fapp%2Fia-ia_authentificationdelidpiafgclients_1%2Fexkk3mzm3uSH8wtZe5d7%2Fsso%2Fsaml%3FRelayState%3D%25252Fapp%25252Fia-ia_iaclientexperienceoag_2%25252FexkkfulufgPWUQk2i5d7%25252Fsso%25252Fsaml%25253FSAMLRequest%25253DfVJdc9MwEPwrHr3bkh3cJJokM6HmI0MB06TA8JJR5HOiiSwZndSm%2525252Fx7VgRIe6JM0e7e7utXNUHS658vgD%2525252BYWfgZAn5w6bZAPhTkJznArUCE3ogPkXvL18uMNLzLGe2e9lVaTC8rLDIEIzitrSLKq5mSbT2HHijGTO8mmcjRmLZvmbLybsHZ0xYpGtJOygNFV%2525252FookX8FhZM5JFIp0xAArg14YHyFWlCkr02K6ySc8L3mZ%2525252FyBJFadRRviBdfC%2525252BR06ptntlsviMeyUhi2UtbSZtR0XfUyVSJbZKSK3AeDj14OJFghX7bUHhdDy2QYd2X3%2525252B7%2525252B3IsVNmMKaKlT4OTZPlnuGtrMHTg1meTu9ubv%2525252FZRO5rL4OABdpf2b6oP%2525252Bend98eKdrYJGrL%2525252B0A%2525252FCFM9nkQqJA%2525252FrcSpL69xe8VqZRZv9y%2525252BrtzE%2525252FL3m02d1p%2525252FXG7KYPUnzIU23eBae0Ut4dl6ST1FwVdVWK%2525252FmYvLWuE%2525252F7%2525252FfnmWD4hq0nZo5cFgD1K1CpqYldb24dqB8DAn3gUgdHE2%2525252FXcZF78A%252526RelayState%25253Dhttps%2525253A%2525252F%2525252Fiac.secureweb.inalco.com%2525252Feemwpnp1%2525252FdoLogin
   title: IA Financial Group
   img: ia.png

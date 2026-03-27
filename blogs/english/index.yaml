@@ -18,3 +18,19 @@ list:
       - name: '2023-09'
       - name: '2023-10'
       - name: '2023-11'
+  - title: YouTube Channels
+    name: youtube
+    list:
+     - name: susie-woo
+       title: Susie Woo
+     - name: rachel
+       title: Rachel's English
+     - name: zahara
+       title: Zahara English
+     - name: jingjing
+       title: 张静静
+     - name: leo
+       title: Leo English Podcast
+     - name: vinh
+       title: Vinh Giang
+

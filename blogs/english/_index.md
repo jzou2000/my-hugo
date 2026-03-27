@@ -1,5 +1,4 @@
 ---
 title: English
-toplevel: true
-weight: 50
+refresh: proverbs-of-day
 ---
