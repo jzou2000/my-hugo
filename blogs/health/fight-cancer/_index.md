@@ -28,4 +28,7 @@ title: I Fight Cancer and Win
 |12-19|chemo            |cycle 19|
 |12-30|Dr. Loree        |CT follow-up, new chemo treatment|
 |<b>2026</b>||
-|01-02|**chemo**        |**cycle 1 biweekly**|
+|01-02|**chemo**        |**GIFOLFOX cycle 1 biweekly**|
+|03-13|chemo            |cycle 6|
+|03-18|CT Scan          |@BCC measure tumors|
+|03-26|Dr. Gill         |**GIAVPANI**|
