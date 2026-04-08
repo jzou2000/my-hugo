@@ -5,6 +5,27 @@ list:
     title: 西餐中的香草
   - name: ten-herbs
     title: 十大香草
+    list:
+      - name: basil
+        title: Basil 罗勒
+      - name: parsley
+        title: Parsley 欧芹
+      - name: thyme
+        title: Thyme 百里香
+      - name: rosemary
+        title: Rosemary 迷迭香
+      - name: dill
+        title: Dill 莳萝
+      - name: sage
+        title: Sage 鼠尾草
+      - name: oregano
+        title: Oregano 牛至
+      - name: tarragon
+        title: Tarragon 龙蒿
+      - name: chive
+        title: Chive 虾夷葱
+      - name: bay-leaf
+        title: Bay Leaf 香叶／月桂叶
   - name: code-dishes
     title: 凉拌菜30道
     list:

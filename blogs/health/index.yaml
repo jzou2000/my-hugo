@@ -8,6 +8,8 @@ list:
     - name: "2024"
     - name: "2025"
     - name: "2026"
+    - name: medicines
+    - name: contacts
     - name: terms
   - name: blood-tests
     title: Blood Tests

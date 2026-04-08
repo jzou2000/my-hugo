@@ -4,7 +4,7 @@ title: 张静静
 
 [![静静](../jingjing.jpg)](https://www.youtube.com/@JingJing_Zhang)
 
-{{< yt-list size=medium >}}
+{{< yt-list size=small >}}
 
 - title: 20句超常用社交英文
   yt: E0jP2s-NFJU

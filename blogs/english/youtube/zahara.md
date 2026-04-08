@@ -4,7 +4,7 @@ title: Aahara English
 
 [![zahara](../zahara.png)](https://www.youtube.com/@zaharaEnglish)
 
-{{< yt-list size=medium >}}
+{{< yt-list >}}
 
 - title: 秒懂美国人
   yt: 6u2CV_h2mNQ

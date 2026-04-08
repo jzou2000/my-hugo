@@ -5,7 +5,12 @@ list:
     title: Vancouver
   - name: blog
     title: 个人博客
+  - name: retire
+    title: 退休养老
   - name: art
     title: Art
   - name: hair
     title: Hair Styles
+  - name: misc
+    title: Knowledge
+  

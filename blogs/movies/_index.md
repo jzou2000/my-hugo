@@ -29,10 +29,6 @@ refresh: ddys
   title: 爱奇艺
   img: iqiyi.svg
 
-- href: https://www.haitu.xyz
-  img: haitu.png
-  title: 海兔影院
-
 - href: https://www.xlys02.com
   title: 修罗影视
   img: xiuluoyingshi.png

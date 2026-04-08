@@ -38,4 +38,8 @@ title: Vancouver
 - href: https://www.globalindustrial.ca/c/motors_power_transmission/vbelts_timing_belts/timing_belts
   img: global-industrial.png
 
+- href: https://www.youtube.com/@SuperiorLife
+  img: superior-canada.jpg
+  title: Superior Canada 潘老师聊加拿大
+
 {{< /bookmarks >}}

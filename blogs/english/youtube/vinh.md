@@ -4,7 +4,7 @@ title: Vinh Giang
 
 [![静静](../vinh.png)](https://www.youtube.com/@askvinh)
 
-{{< yt-list size=medium >}}
+{{< yt-list >}}
 
 - title: 9 Habits for Clearer Speaking
   yt: PiNN-HmHu7A
