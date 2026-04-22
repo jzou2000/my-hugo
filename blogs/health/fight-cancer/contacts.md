@@ -12,6 +12,11 @@ title: Contacts
   * appointment (604) 877-6218 x3
 * Radiation
   * Dr. Lefresne (604) 877-6000 x5177
+* Internal Medicine
+  * Dr. Briam Kim
+  * secretary Io Verona
+  * Diamond Health Care Center 7th floor, station 3
+  * (604) 875-5181
 
 ## Others
 

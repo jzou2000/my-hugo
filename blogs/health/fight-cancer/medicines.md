@@ -24,7 +24,15 @@ title: Medicines Notes
 * Nystatin (anit-fangal mouth wash)
   * 2025-05
 * CT scan image contrast enhancement injection
-* Vitamins (iregularly)
+* Vitamins (irregularly)
   * C
   * B100
   * D+Calium
+  * **important note** high-dose vitamin C and complex B supplements are often avoided during chemotherapy or radiation treatments. They **reduce** the treatment effects.
+
+Doctor Kim's note April 8:
+* take medicine to drop blood pressure to less than 130mmh, amload pin once/day 5m
+* monitor blood pressure in morning/evening/ 2-3times/week, sitting, arm on table, go toilet, relax
+* review in 2month
+* buy device to monitor heart when condition goes worse, kardia ~$100
+

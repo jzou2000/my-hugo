@@ -5,6 +5,8 @@ list:
   - name: waveshare-s3-2.06inc-battery
   - name: products
     list:
+    - name: hc-sr04
+    - name: sg90
   - name: s3zero-ble
     title: s3zero-ble
     list:
@@ -18,6 +20,7 @@ list:
     list:
     - name: design
       title: design
+    - name: tracing
     - name: what-i-have-now
       title: What I Have Now
     - name: power
