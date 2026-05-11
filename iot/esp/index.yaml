@@ -3,10 +3,21 @@ list:
   - name: waveshare-s3-mini
   - name: waveshare-s3-touch-lcd-2
   - name: waveshare-s3-2.06inc-battery
-  - name: products
+  - name: components
     list:
     - name: hc-sr04
     - name: sg90
+    - name: dc-dc
+      title: DC-DC
+    - name: l298n
+      title: L298N
+    - name: mpu6050
+      title: MPU6050
+    - name: usbc-breakout
+    - name: tt-motor
+      title: TT motor
+    - name: current-sensors
+      title: Current Sensors
   - name: s3zero-ble
     title: s3zero-ble
     list:

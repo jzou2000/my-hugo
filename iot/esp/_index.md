@@ -2,12 +2,20 @@
 title: ESP32
 ---
 
-{{< bookmarks >}}
+{{< img-list size=tiny >}}
 
 - href: https://randomnerdtutorials.com/getting-started-with-esp32
   img: /images/random-nerd.jpg
   title: Random Nerd Tutorials
   description: Esp32, Raspery Pi, Micro Python, Arduino, ...
+
+- href: https://deepbluembedded.com/esp32-programming-tutorials/
+  img: DeepBlueMbedded-Icon.webp
+  title: DeepBlueMbedded
+  description: |
+    A free educational website that was originally launched as a personal space to share knowledge in the embedded systems & electronics engineering fields. It gained a lot of traction over the years and became a goto source of information for a lot of engineers, students, and makers all over the world.
+
+    DeepBlueMbedded has already surpassed the goal of being a trusted resource for learners in the field of embedded systems, and microcontrollers programming (STM32, Arduino, ESP32, PIC), and still pushing further to provide more free resources to the community.
 
 - href: https://wokwi.com
   img: /images/wokwi.svg
@@ -31,4 +39,4 @@ title: ESP32
   title: MoThunderz
   description: Tutorials and projects on esp32
 
-{{< /bookmarks >}}
+{{< /img-list >}}
