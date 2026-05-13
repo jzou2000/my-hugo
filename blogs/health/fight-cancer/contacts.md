@@ -12,6 +12,8 @@ title: Contacts
   * appointment (604) 877-6218 x3
 * Radiation
   * Dr. Lefresne (604) 877-6000 x5177 (Mary)
+  * booking x2424, request by Tuesday
+  * treatment unit x6251 for lating or not feeling well
 * Internal Medicine
   * Dr. Briam Kim
   * secretary Io Verona
