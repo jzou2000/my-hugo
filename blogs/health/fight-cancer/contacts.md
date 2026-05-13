@@ -5,13 +5,13 @@ title: Contacts
 ## BC Cancer Association
 
 * Chemotherapy
-  * Dr. Karamjit Gill (604) 877-6000 x2856
+  * Dr. Karamjit Gill (604) 877-6000 x2856 (Sarah)
   * secretary Sarah
   * assistant Shelly
   * nurse line 1-833-818-6626
   * appointment (604) 877-6218 x3
 * Radiation
-  * Dr. Lefresne (604) 877-6000 x5177
+  * Dr. Lefresne (604) 877-6000 x5177 (Mary)
 * Internal Medicine
   * Dr. Briam Kim
   * secretary Io Verona

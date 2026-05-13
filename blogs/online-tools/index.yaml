@@ -4,3 +4,5 @@ list:
     name: img-svg
   - name: text
     title: Text Tools
+  - name: lang
+    title: Lang

@@ -6,6 +6,12 @@ title: Images & SVGs
 
 {{< bookmarks >}}
 
+- href: https://boxy-svg.com/app
+  img: /images/boxy-svg.svg
+  title: Boxy SVG
+  description: |
+    Very powerful SVG editor. Use download to save to local storage.
+
 - href: https://www.svgator.com/create-svg
   img: /images/svgator.svg
   title: SVGator
@@ -16,11 +22,11 @@ title: Images & SVGs
   title: VectorInk
   description: Powerful tools for creating, editing SVG files.
 
-- href: https://boxy-svg.com/app
-  img: /images/boxy-svg.svg
-  title: Boxy SVG
+- href: https://svgedit.netlify.app
+  img: /images/svgedit-logo.svg
+  title: SVG-Edit
   description: |
-    Very powerful SVG editor. One trick without registering: to get svg file, use export tool and save preview image.
+    Web-based open source SVG editor.
 
 - href: https://www.online-image-editor.com
   img: /images/online-image-editor.svg
