@@ -26,6 +26,8 @@ list:
       title: CBC
     - name: hemoglobin
       title: Hemoglobin
+    - name: platelet
+      title: platelet count
     - name: bilirubin
       title: bilirubin
     - name: creatinine

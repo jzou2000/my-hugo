@@ -14,5 +14,6 @@ title: Blood Tests
 {{< van-img ca-19-9.png >}}
 {{< van-img lymphocytes.png >}}
 {{< van-img rbc.png >}}
+{{< van-img platelet-count.png >}}
 {{< van-img bilirubin.png >}}
 {{< van-img src="creatinine.png" >}}

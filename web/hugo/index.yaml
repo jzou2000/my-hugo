@@ -26,6 +26,7 @@ list:
   - name: shortcode
     list:
       - name: demo
+      - name: src-code
   - desc: static site generator list
     name: ssg
   - name: template
