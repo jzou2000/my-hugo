@@ -3,6 +3,7 @@ title: Basic Shapes
 nav: basic
 ---
 
+{{< src-code embedded=true lang=svg >}}
 <svg width="800" height="360" viewbox="-40 -40 880 440">
   <style>
     text { font-size: 16; fill: black; }
@@ -70,4 +71,4 @@ nav: basic
         <text transform="translate(530,220)" class="shape">polygon</text>
   </g>
 </svg>
-
+{{< /src-code >}}

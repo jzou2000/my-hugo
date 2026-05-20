@@ -4,6 +4,8 @@ nav: component
 ---
 
 ## Component
+
+{{< src-code embedded=true lang=html >}}
 <style>
 text {
     text-anchor: middle;
@@ -58,3 +60,4 @@ rect {
         stroke='red' -transform='translate(0,-30)'
         >30</text>
 </svg>
+{{< /src-code >}}

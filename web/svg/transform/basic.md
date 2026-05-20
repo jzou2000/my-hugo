@@ -3,6 +3,7 @@ title: Basic Transform
 nav: basic
 ---
 
+{{< src-code embedded=true lang=svg >}}
 <svg width="800" height="600" viewbox="-40 -40 880 680">
   <g fill-opacity="0.6" fill="none">
     <!-- viewport frame -->
@@ -27,3 +28,4 @@ nav: basic
     fill="green"
     transform="translate(400,20) rotate(30)"/>
 </svg>
+{{< /src-code >}}

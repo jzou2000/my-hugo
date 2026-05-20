@@ -3,6 +3,7 @@ title: Scale2
 nav: scale2
 ---
 
+{{< src-code embedded=true lang=svg >}}
 <style>
 rect {
     opacity: .7;
@@ -34,3 +35,4 @@ text {
             transform='translate(200,80) scale(3,2)'/>
             <text x='305' y='105' fill='yellow'>translate(200, 80) scale(3,2)</text>
 </svg>
+{{< /src-code >}}

@@ -4,8 +4,6 @@ list:
     name: animejs
     list:
       - name: demo
-      - name: urls
-  - name: bookmarks
   - title: test chart
     name: chart
   - name: component

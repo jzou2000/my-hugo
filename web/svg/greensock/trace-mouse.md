@@ -3,6 +3,8 @@ title: Trace The Mouse
 nav: trace mouse
 vue: true
 ---
+
+{{< src-code embedded=true lang=svg >}}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.3/gsap.min.js"></script>
 
 <style>
@@ -13,7 +15,9 @@ vue: true
 
 <div id='app'>
 
+<div>
 Move the mouse around and click, the rect object will follow your track.
+</div>
 
 <svg viewbox='0 0 400 300' width='400' height='300' class='svg'>
     <g @mousemove='svgMouseMove' @click='onTrace'>
@@ -31,7 +35,6 @@ Move the mouse around and click, the rect object will follow your track.
 </svg>
 
 </div>
-
 
 <script>
 /*
@@ -72,3 +75,4 @@ var app = new Vue({
 })
 
 </script>
+{{< /src-code >}}

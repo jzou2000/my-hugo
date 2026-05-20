@@ -3,6 +3,7 @@ title: Text
 nav: text
 ---
 
+{{< src-code embedded=true lang=svg >}}
 <style>
 
 circle {
@@ -53,3 +54,4 @@ path {
         <textPath href='#my-path'>A text along the path</textPath>
     </text>
 </svg>
+{{< /src-code >}}

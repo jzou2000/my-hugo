@@ -3,6 +3,7 @@ title: Scale
 nav: scale
 ---
 
+{{< src-code embedded=true lang=svg >}}
 <style>
 .nss {
     vector-effect: non-scaling-stroke;
@@ -35,3 +36,4 @@ nav: scale
                 transform='rotate(15,120,50) translate(120,110) scale(3,1)'/>
     </g>
 </svg>
+{{< /src-code >}}

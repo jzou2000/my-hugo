@@ -3,6 +3,7 @@ title: Path
 nav: path
 ---
 
+{{< src-code embedded=true lang=svg >}}
 <svg width="600" height="400" viewbox="0 0 600 400">
   <g fill-opacity="0.6" fill="none">
     <rect x="0" y="0" width="600" height="400" fill='pink'/>
@@ -19,4 +20,4 @@ nav: path
     <path d="M300,300 L150,280 L200,200 L350,180" stroke="green"/>
   </g>
 </svg>
-
+{{< /src-code >}}

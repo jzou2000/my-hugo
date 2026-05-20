@@ -3,6 +3,7 @@ title: Demo
 nav: demo
 ---
 
+{{< src-code embedded=true lang=html >}}
 <script src='/js/anime.min.js'></script>
 
 <style type='text/css'>
@@ -14,14 +15,20 @@ nav: demo
     height: 1cm;
     background: red;
 }
+#playground {
+  height: 5cm;
+  border: thin solid black;
+}
 </style>
 
-<div id='test-block' class='aj-box'>
-R
-</div>
+<div id='playground'>
+  <div id='test-block' class='aj-box'>
+  R
+  </div>
 
-<div>
-    <button id='bplay'>play</button>
+  <div>
+      <button id='bplay'>play</button>
+  </div>
 </div>
 
 <script language='javascript'>
@@ -40,3 +47,4 @@ var a = anime({
 document.querySelector('#bplay').onclick = a.play;
 
 </script>
+{{< /src-code >}}

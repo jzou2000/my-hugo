@@ -3,6 +3,7 @@ title: Transform Sample 2
 nav: transform-2
 ---
 
+{{< src-code embedded=true lang=svg >}}
 <style>
 .e {
   opacity: 60%;
@@ -30,3 +31,4 @@ nav: transform-2
   <use xlink:href="#g"
     transform="translate(400,60)"/>
 </svg>
+{{< /src-code >}}

@@ -5,6 +5,7 @@ nav: rotate
 
 Rotate only and combine with translate. Notice that the sequence matters.
 
+{{< src-code embedded=true lang=svg >}}
 <style>
 rect {
     opacity: .7;
@@ -61,3 +62,4 @@ svg { border: solid black 1; }
 rotate(30)</text>
                 <circle cx='100' cy='220'/>
 </svg>
+{{< /src-code >}}

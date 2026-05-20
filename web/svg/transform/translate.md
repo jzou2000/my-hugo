@@ -3,6 +3,7 @@ title: Translate
 nav: translate
 ---
 
+{{< src-code embedded=true lang=svg >}}
 <style>
 rect {
     opacity: .7;
@@ -38,3 +39,4 @@ circle {
             transform='translate(200,80) scale(3,2)'/>
             <text x='305' y='105' fill='yellow'>t(200, 80) s(3,2)</text>
 </svg>
+{{< /src-code >}}
