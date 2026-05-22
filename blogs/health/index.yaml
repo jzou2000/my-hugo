@@ -32,6 +32,7 @@ list:
       title: bilirubin
     - name: creatinine
       title: Creatinine
+  - name: askai
+    title: Ask AI
   - name: varicose
     title: Varicose Veins
-  

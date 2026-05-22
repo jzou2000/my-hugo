@@ -8,7 +8,7 @@ title: Health
 - href: https://accessmyhealth.ca
   img: access-my-health.png
   title: AccessMyHealth
-  description: 访问个人的加拿大健康医疗数据，需要BC Service登录。
+  description: BC Service登录
 
 - href: https://login.bc.mycarecompass.lifelabs.com/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Did_token%2520token%26client_id%3Dupp-bc%26state%3DegRD6GsppHvHiH06Ly7Ia67ZPUHaD88vfD_jaK3v%26redirect_uri%3Dhttps%253A%252F%252Fwww.bc.mycarecompass.lifelabs.com%252Fhome%26scope%3Dopenid%2520profile%2520upp-api.bc%2520idp-api.bc%26nonce%3DegRD6GsppHvHiH06Ly7Ia67ZPUHaD88vfD_jaK3v%26locale%3Den-ca%26screenType%3Ddefault%26province
   img: /images/lifelabs.svg

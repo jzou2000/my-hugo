@@ -2,7 +2,7 @@
 title: Text Tools
 ---
 
-{{< bookmarks >}}
+{{< img-list size=micro >}}
 
 - href: https://www.markdownguide.org/basic-syntax/
   img: /images/markdown-guide.png
@@ -40,4 +40,4 @@ title: Text Tools
   img: /images/emoji-cheat-sheet.png
   title: Emoji Cheat Sheet
 
-{{< /bookmarks >}}
+{{< /img-list >}}

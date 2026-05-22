@@ -1,0 +1,8 @@
+title: Ask AI
+list:
+  - name: local-svr
+    title: Local Servers
+    list:
+      - name: hardwares
+      - name: models
+      - name: video

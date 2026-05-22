@@ -8,4 +8,3 @@ list:
   - name: motor
   - title: motor driver
     name: motor-driver
-  - name: overview

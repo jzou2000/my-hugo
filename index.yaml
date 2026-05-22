@@ -83,6 +83,9 @@ catalogs:
       - name: intro
         title: Basic
         icon: /images/presentation.svg
+      - name: askai
+        title: Ask AI
+        icon: /images/askai.svg
       - name: esp
         title: ESP32
         icon: /images/espressif.svg

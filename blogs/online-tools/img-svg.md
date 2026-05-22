@@ -4,36 +4,37 @@ title: Images & SVGs
 
 ## SVG
 
-{{< bookmarks >}}
+{{< bookmarks size=medium >}}
 
 - href: https://boxy-svg.com/app
   img: /images/boxy-svg.svg
   title: Boxy SVG
   description: |
-    Very powerful SVG editor. Use download to save to local storage.
+    @[youtube](https://www.youtube.com/@BoxySVG)
 
 - href: https://www.svgator.com/create-svg
   img: /images/svgator.svg
   title: SVGator
-  description: Draw SVG, edit and easily export. Focus on animation!
+  description: |
+    @[youtube](https://www.youtube.com/@SVGator)
 
 - href: https://vectorink.io/
   img: /images/vector-ink.svg
   title: VectorInk
-  description: Powerful tools for creating, editing SVG files.
+  description: |
+    @[youtube](https://www.youtube.com/@vectorinkapp)
 
 - href: https://svgedit.netlify.app
   img: /images/svgedit-logo.svg
   title: SVG-Edit
-  description: |
-    Web-based open source SVG editor.
 
 - href: https://www.online-image-editor.com
   img: /images/online-image-editor.svg
   title: Online Image Editor
-  description: Highly recommended
-    for resizing, cropping, converting, framing with round corners,
-    adding text to images. Easy to use.
+
+{{< /bookmarks >}}
+
+{{< img-list size=micro >}}
 
 - href: https://www.photopea.com
   img: /images/photopea.svg
@@ -70,11 +71,11 @@ title: Images & SVGs
   description: Another full capable free online image editor.
       But you may not get used to its UI and workflow.
 
-{{< /bookmarks >}}
- 
+{{< /img-list >}}
+
 ## Repos
 
-{{< bookmarks >}}
+{{< img-list size=micro >}}
 
 - href: https://www.vecteezy.com/
   img: /images/vecteezy.svg
@@ -89,4 +90,4 @@ title: Images & SVGs
   img: /images/fontawesome.svg
   title: Font Awesome
 
-{{< /bookmarks >}}
+{{< /img-list >}}

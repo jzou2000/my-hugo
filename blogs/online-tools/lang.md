@@ -2,7 +2,7 @@
 title: Language Tools
 ---
 
-{{< bookmarks >}}
+{{< img-list size=micro >}}
 
 - href: https://youglish.com/
   img: /images/youglish.svg
@@ -11,4 +11,4 @@ title: Language Tools
     Find Youbute videos that contain your word/phrase.
     Refer "about" for more options to define your inputs.
 
-{{< /bookmarks >}}
+{{< /img-list >}}
