@@ -47,6 +47,9 @@ catalogs:
       - name: online-tools
         title: Online Tools
         icon: /images/tools-2.svg
+      - name: channels
+        title: Channels
+        icon: /images/youtube.svg
       - name: how-to
         title: How-to
         icon: /images/howto.svg

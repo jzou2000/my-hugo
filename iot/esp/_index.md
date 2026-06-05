@@ -4,6 +4,12 @@ title: ESP32
 
 {{< img-list size=tiny >}}
 
+- href: https://www.youtube.com/@EspressifSystems/videos
+  img: /images/espressif.svg
+  title: Espressif Systems
+  text: |
+    This is the official YouTube Channel of Espressif Systems. Espressif Systems (SSE: 688018.SH) pioneers full-stack platforms powering the next generation of intelligent, energy-efficient IoT and edge AI devices. Our open-source technologies are transforming industries by enabling scalable, secure, and cost-effective innovation—from consumer products to industrial IoT. The breakthrough integration of compute and connectivity in our SoCs reshaped the IoT landscape, making mass-scale smart devices accessible to all. As a global semiconductor innovator, we deliver high-performance RISC-V SoCs and comprehensive solutions with integrated AI, in-house operating system, robust security, and seamless cloud integration—shaping the future of smart, connected systems.
+
 - href: https://randomnerdtutorials.com/getting-started-with-esp32
   img: /images/random-nerd.jpg
   title: Random Nerd Tutorials
@@ -33,6 +39,21 @@ title: ESP32
   img: /images/makeradvisor.png
   title: Review & Comparison
   description: ESP32 Development Boards Review and Comparison
+
+- href: https://www.youtube.com/@tomasztarnowski4434
+  img: tomasz.jpg
+  title: Tomasz Tarnowski
+  text: |
+    Software Engineer👨‍💻  based in London 🇬🇧, 15+ years of experience
+  
+    The content you can find here:
+    * the Internet of Things 🤖  and embedded programming in C/C++ for Arduino(ESP8266, ESP32).
+    * Building scalable APIs with TypeScript, Go, AWS Lambda, AWS DynamoDB & Serverless Framework
+    * Learning to code 💻 📚 🧑‍🏫  
+
+    Currently doing: 
+    * Tutorials about making devices based on ESP32 microcontroller with the use of Visual Studio Code IDE, PlatformIO Extension, C, and C++ programming languages.
+    * Tutorials about building APIs or other services/applications and hosting them on AWS using Serverless Framework
 
 - href: https://www.youtube.com/@mothunderz
   img: /images/youtube.svg

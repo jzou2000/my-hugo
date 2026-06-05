@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <g transform="matrix(1, 0, 0, 1, 0.159998, -0.283)">
+    <ellipse style="fill: rgb(166, 206, 56);" cx="39.84" cy="40.283" rx="40" ry="40"/>
+    <path style="fill: rgb(255, 255, 255);" d="M 70.511 39.481 C 70.232 68.37 31.315 84.054 31.322 77.611 C 32.962 78.04 35.651 69.855 34.011 69.426 C 20.751 68.865 10 53.747 10 40 C 10 23.431 23.431 10 40 10 C 56.569 10 70.671 22.912 70.511 39.481 Z"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0.070498, 0.217996)">
+    <rect x="44.373" y="21.35" width="4.046" height="37.3" style="fill: rgb(167, 207, 57);"/>
+    <rect x="51.326" y="24.304" width="4.046" height="31.392" style="fill: rgb(167, 207, 57);"/>
+    <rect x="58.608" y="29.213" width="4.046" height="21.574" style="fill: rgb(167, 207, 57);"/>
+    <rect x="-41.882" y="17.405" width="4.046" height="44.754" style="fill: rgb(167, 207, 57);" transform="matrix(-1, 0, 0, 1, 0, 0)"/>
+    <rect x="-35.486" y="21.132" width="4.046" height="37.3" style="fill: rgb(167, 207, 57);" transform="matrix(-1, 0, 0, 1, 0, 0)"/>
+    <rect x="-28.533" y="24.086" width="4.046" height="31.392" style="fill: rgb(167, 207, 57);" transform="matrix(-1, 0, 0, 1, 0, 0)"/>
+    <rect x="-21.251" y="28.995" width="4.046" height="21.574" style="fill: rgb(167, 207, 57);" transform="matrix(-1, 0, 0, 1, 0, 0)"/>
+  </g>
+</svg>
