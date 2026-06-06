@@ -16,6 +16,12 @@ title: Interesting Stuffs
   description: |
     The Process is a journey through the depths of human knowledge — exploring history, science, culture, and society. We bring to life the stories that shaped our world with compelling visuals, powerful storytelling, and deep analysis. Step beyond the ordinary and discover the limitless frontiers of learning
 
+- href: https://www.youtube.com/@xiaodaodalang
+  img: 小岛大浪吹.jpg
+  title: 小岛大浪吹-非正经政经频道
+  description: |
+    播客居新加坡。内容广泛涉及政经、时事和热点话题。叙事方法和动画很有意思。
+
 - href: https://www.youtube.com/@%E8%80%81%E8%82%89%E9%9B%9C%E8%AB%87
   img: 老肉雜談.jpg
   title: 老肉雜談

@@ -3,3 +3,5 @@ list:
   - name: emulator
   - name: soldering
   - name: shopping
+  - name: self-balancing-robot
+    title: Self Balancing Robot

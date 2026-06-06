@@ -1,8 +1,10 @@
 title: Ask AI
 list:
+  - name: updates
+    title: Updates
   - name: local-svr
     title: Local Servers
     list:
       - name: hardwares
       - name: models
-      - name: video
+      - name: videos
