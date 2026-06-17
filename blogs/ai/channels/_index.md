@@ -1,5 +1,5 @@
 ---
-title: AI
+title: Channels
 ---
 
 {{< img-list size=tiny circle=true >}}

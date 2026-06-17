@@ -1,5 +1,5 @@
 ---
-title: Ask AI
+title: All About AI
 ---
 
 * js makes svg chart

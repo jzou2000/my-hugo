@@ -1,0 +1,17 @@
+title: All About AI
+list:
+  - name: topics
+  - name: channels
+  - name: updates
+    title: Updates
+  - name: local-svr
+    title: Local Servers
+    list:
+      - name: hardwares
+      - name: models
+      - name: ollama
+        title: Ollama
+      - name: open-webui
+        title: Open WebUI
+      - name: comfyui
+        title: ComfyUI

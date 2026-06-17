@@ -21,6 +21,20 @@ title: Progress Updates
 
      [google](https://gemini.google/overview/image-generation/)
 
+- href: https://elevenlabs.io/
+  name: 11ElevenLabs
+  img: elevenlabs.svg
+  text: |
+     Online agent to multiple generative video servers.  
+     Starts from $0 for 10min/month
+
+- href: https://www.pippit.ai/
+  name: Pippet
+  img: pippet.svg
+  text: |
+     Online agent to multiple generative video servers.  
+     Starts for free. 150 credit per week.
+
 {{< /img-list >}}
 
 ### image
