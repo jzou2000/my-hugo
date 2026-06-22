@@ -36,3 +36,9 @@ list:
     title: Ask AI
   - name: varicose
     title: Varicose Veins
+  - name: digests
+    title: 文摘
+    list:
+    - name: common-knowdge
+      title: 美加看病基本常识
+      
