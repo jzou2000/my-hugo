@@ -9,9 +9,22 @@ list:
     list:
       - name: hardwares
       - name: models
+      - name: linux
+        title: linux setup
       - name: ollama
-        title: Ollama
       - name: open-webui
-        title: Open WebUI
+        title: open webui
       - name: comfyui
-        title: ComfyUI
+  - name: comfyui
+    title: comfyui
+    list:
+      - name: dong-budong
+        title: 董不懂-入门教程
+      - name: models
+      - name: prompts
+      - name: settings
+      - name: outputs
+      - name: logs
+      - name: errors
+      - name: warnings
+      - name: info

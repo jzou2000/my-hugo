@@ -2,6 +2,66 @@
 title: Hardwares
 ---
 
+Followings are my machines
+
+* kiwi: a linux desktop - intel i7, 32gb mem, rtx 5070 video card, running cachyos
+* cherry: a laptop, thinkpad p53s, running ubuntu 26.04
+* lemon: a laptop, thinkpad p15v, running mint linux
+* jmac: a laptop, macbook pro 2019 13inch
+
+Here's my plan
+
+* kiwi
+  * my son's gaming box at night, I can use it when it's idle in day time
+  * ollama, LLM qwen/llama/deepthink, general LLM service, light development for hugo static site and embedded projects, claude/codex/antigravity as tools
+  * LLM accessed from local network devices, e.g. cherry, lemon, jmac, mobiles
+  * use as local alternative for chatgpt/gemini
+  * access from ollama on cherry/lemon/jmac
+  * access from mobiles using open webui
+  * comfyui for image/video generating, client from any local network devices
+* cherry/lemon/jmac
+  * hugo ssg
+  * vscode/gemini-ide/codex
+
+Please give instructions to perform following tasks, on cachyos/ubuntu/mint unless
+specified explicitly
+
+* change hostname
+* install/config avahi for mDNS
+* install ssh and tmux
+* config firewall to allow mdns, ssh, ollama, comfyui, etc
+* chinese language package
+  * how to set locale
+  * chinese input/keyboard
+* add user aiuser
+  * able to install packages, config network, start/stop services
+  * able to config/manage docker, ollama, comfyui on kiwi
+* install docker on kiwi
+  * nvidia container toolkit
+  * how to change storage location to avoid run out of "default" volumn
+* install ollama on kiwi
+  * allow to access from local network, including mobiles
+  * allow to access from web browser directly, e.g. static page
+  * keep alive for 2 hours
+  * convenient commands to start/stop LLM via ssh/tmux
+  * enabled by firewall
+  * methods to access by vscode/claud/codex/antigravity
+* install open webui on kiwi
+  * enabled by firewall
+  * client/browser from local network devices, including mobiles
+* install comfyui on kiwi
+  * install to /opt or /usr/local to enable other users to use
+  * python and venv
+  * install module manager
+  * enabled by firewall
+  * convenient commands to start/stop
+
+
+
+I plan to run ollama/LLM in a separate linux box - my son's game box with rtx 5070 gpu, which is idle when he's working in day time.
+I do some light development on my hugo static site and embedded personal projects, which involve codex and/or antigravity agents. For daily reference, I'd like to access LLM through mobile devices, like I'm using chatgpt or gemini now.
+
+
 TBD
 Ah, great catch! You are thinking ahead.
 
@@ -63,13 +123,3 @@ sudo systemctl restart ollama
 
 ```
 
-### How to Test It
-
-From your local desktop (or whichever machine is running ComfyUI), open a terminal and try to ping the Ollama API using `curl`. Replace `server-ip` with the CachyOS machine's IP address:
-
-```bash
-curl http://<server-ip>:11434/api/tags
-
-```
-
-If it returns a JSON list of your downloaded models (even if it's just empty `{"models":[]}`), your network binding, host, and origin settings are 100% correct and working!
