@@ -12,18 +12,18 @@ favorites:
 - name: github
   icon: /images/github.svg
   href: https://github.com
-- name: chatgpt
-  icon: /images/chatgpt.svg
-  href: https://chatgpt.com
 - name: gemini
   icon: /images/gemini.svg
   href: https://gemini.google.com/app
-- name: grok
-  icon: /images/grok.svg
-  href: https://grok.com
+- name: chatgpt
+  icon: /images/chatgpt.svg
+  href: https://chatgpt.com
 - name: 千问
   icon: /images/qwen.svg
   href: https://qwen.ai/home
+- name: grok
+  icon: /images/grok.svg
+  href: https://grok.com
 - name: lifelabs
   icon: /images/lifelabs.svg
   href: https://www.bc.mycarecompass.lifelabs.com/
@@ -157,14 +157,15 @@ catalogs:
 
 toolbox:
   # use to populate toolbox submenu, which is at right side of menu
-  - name: grok
-    title: grok
-    # title is the text that actually shown in the menu, default is name value
-    href: https://x.ai
-    icon: /images/xai.svg
+  - name: gemini
+    icon: /images/gemini.svg
+    href: https://gemini.google.com/app
   - name: chatgpt
     icon: /images/chatgpt.svg
     href: https://chatgpt.com
+  - name: 千问
+    icon: /images/qwen.svg
+    href: https://qwen.ai/home
   - name: youdao
     title: 有道
     icon: /images/youdao.svg

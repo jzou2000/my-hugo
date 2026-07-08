@@ -21,10 +21,18 @@ list:
       - name: dong-budong
         title: 董不懂-入门教程
       - name: models
-      - name: prompts
-      - name: settings
-      - name: outputs
-      - name: logs
-      - name: errors
-      - name: warnings
-      - name: info
+  - name: z-image
+  - name: flux
+  - name: ltx
+    title: LTX
+    list:
+      - name: low-vram
+      - name: surphur
+  - name: wan
+  - name: colab
+    title: Colab
+  - name: gemini
+    title: Gemini
+    list:
+      - name: gemini-flow
+      - name: gemini-omini
